@@ -4,6 +4,6 @@
     "board":  "JC3248W535C",
     "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.1/firmware-jc3248w535c-v2.1.bin",
     "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin",
-    "sha256":  "9BFD45F53D8D6E19BF82F965B196C091EBC596632407F3C82CC3B791CF9822FE",
-    "notes":  "Firmware v2.1 con aggiornamento OTA da GitHub, download su microSD, conferma e barra di avanzamento."
+    "sha256":  "B9D6681D23BF82EFB01D55AF36011926565207A40B8CBED811D8B3E2DF0C6B53",
+    "notes":  "Firmware v2.1 con aggiornamento OTA da GitHub, download su microSD, conferma, barra di avanzamento e partizioni OTA default_8MB."
 }
