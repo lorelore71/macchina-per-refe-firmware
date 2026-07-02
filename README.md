@@ -1,17 +1,32 @@
-# Macchina per refe - firmware OTA
+# Macchina per refe - firmware pubblico
 
-Repository pubblico destinato esclusivamente alle release firmware OTA firmate
-della Macchina per refe.
+Repository pubblico usato dal display JC3248W535C per verificare e scaricare gli aggiornamenti firmware.
 
-## Stato attuale
+Il codice sorgente resta nel repository privato `macchina-per-refe`.
 
-La release `v1.9` e' pubblicata solo per verificare il flusso OTA nel simulatore
-HTML. Non contiene un firmware installabile sul display JC3248W535C.
+## Ultima versione
 
-Il dispositivo reale deve accettare una release soltanto quando sono presenti:
+- Versione: `v2.1`
+- Manifest: `releases/latest.json`
+- Firmware OTA: `releases/v2.1/firmware-jc3248w535c-v2.1.bin`
+- Immagine USB completa: `releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin`
 
-- `firmware-jc3248w535c.bin`
-- `firmware-jc3248w535c.bin.sig`
-- `firmware-jc3248w535c.bin.sha256`
+## URL usato dal display
 
-Il codice sorgente resta nel repository privato del progetto.
+```text
+https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/latest.json
+```
+
+## Installazione USB completa
+
+```powershell
+python -m esptool --chip esp32s3 --port COM5 --baud 921600 write_flash 0x0 releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin
+```
+
+## OTA
+
+Il file applicativo per OTA e':
+
+```text
+releases/v2.1/firmware-jc3248w535c-v2.1.bin
+```

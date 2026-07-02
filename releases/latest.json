@@ -1,0 +1,9 @@
+{
+    "tag":  "v2.1",
+    "version":  "2.1",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin",
+    "sha256":  "6EDCC1AEFFE984B77A25FDC45EE9260CE610CED558FBCB8BA8138F7DF3AEF0CA",
+    "board":  "JC3248W535C",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.1/firmware-jc3248w535c-v2.1.bin",
+    "notes":  "Firmware v2.1 con Wi-Fi, selezione reti e pagina aggiornamento OTA."
+}
