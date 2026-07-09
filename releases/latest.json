@@ -1,9 +1,9 @@
 {
-    "version":  "2.4",
-    "tag":  "v2.4",
-    "board":  "JC3248W535C",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.4/firmware-jc3248w535c-v2.4.bin",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.4/firmware-jc3248w535c-v2.4-merged.bin",
-    "sha256":  "EBA76A63A48D92315366F414A456E786DF23C384DBF6D85D4F90C2F97249AB3F",
-    "notes":  "Firmware v2.4: calcolatore empirico banco prova e pausa/ripresa AUTO senza azzeramento."
+  "version": "2.5",
+  "tag": "v2.5",
+  "board": "JC3248W535C",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.5/firmware-jc3248w535c-v2.5.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.5/firmware-jc3248w535c-v2.5-merged.bin",
+  "sha256": "1190D36286D9726FF8B0C764EBCD5739C1242416B531895345FFDA5ABE787ACB",
+  "notes": "Firmware v2.5: bridge HTTP Wi-Fi per simulatore HTML, default Avvolgi CCW e limite 300 RPM rimosso."
 }
