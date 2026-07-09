@@ -1,9 +1,9 @@
-{
-  "version": "2.5",
-  "tag": "v2.5",
-  "board": "JC3248W535C",
-  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.5/firmware-jc3248w535c-v2.5.bin",
-  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.5/firmware-jc3248w535c-v2.5-merged.bin",
-  "sha256": "1190D36286D9726FF8B0C764EBCD5739C1242416B531895345FFDA5ABE787ACB",
-  "notes": "Firmware v2.5: bridge HTTP Wi-Fi per simulatore HTML, default Avvolgi CCW e limite 300 RPM rimosso."
+﻿{
+    "tag":  "v2.6",
+    "version":  "2.6",
+    "sha256":  "a057b4a7894cdbc7483fbf680b83cf4730f5b0e79534b300477831ef002188d3",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.6/firmware-jc3248w535c-v2.6-merged.bin",
+    "date":  "2026-07-10",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.6/firmware-jc3248w535c-v2.6.bin",
+    "notes":  "Firmware v2.6: Display remoto via Wi-Fi verso ESP32 banco prova, uscite motori Display disabilitate e IP ESP32 configurabile."
 }
