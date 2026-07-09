@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v2.6",
-    "version":  "2.6",
-    "sha256":  "a057b4a7894cdbc7483fbf680b83cf4730f5b0e79534b300477831ef002188d3",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.6/firmware-jc3248w535c-v2.6-merged.bin",
+    "tag":  "v2.7",
+    "version":  "2.7",
+    "sha256":  "5a747886411879ce7b2d506ff6447c43de8f533f400f8fa24924de2ca1fc12b9",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.7/firmware-jc3248w535c-v2.7-merged.bin",
     "date":  "2026-07-10",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.6/firmware-jc3248w535c-v2.6.bin",
-    "notes":  "Firmware v2.6: Display remoto via Wi-Fi verso ESP32 banco prova, uscite motori Display disabilitate e IP ESP32 configurabile."
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.7/firmware-jc3248w535c-v2.7.bin",
+    "notes":  "Firmware v2.7: pagina Calcolo refe come simulatore e modifica valori numerici con tastierino touch."
 }
