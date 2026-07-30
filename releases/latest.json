@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v2.7",
-    "version":  "2.7",
-    "sha256":  "5a747886411879ce7b2d506ff6447c43de8f533f400f8fa24924de2ca1fc12b9",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.7/firmware-jc3248w535c-v2.7-merged.bin",
-    "date":  "2026-07-10",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.7/firmware-jc3248w535c-v2.7.bin",
-    "notes":  "Firmware v2.7: pagina Calcolo refe come simulatore e modifica valori numerici con tastierino touch."
+    "tag":  "v2.8",
+    "version":  "2.8",
+    "sha256":  "9722ef605ccae82abbf3d0c1b8f4d77f1a95b7d756ba2956a2902f49553e2d0f",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.8/firmware-jc3248w535c-v2.8-merged.bin",
+    "date":  "2026-07-30",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.8/firmware-jc3248w535c-v2.8.bin",
+    "notes":  "Firmware v2.8: pulsanti firmware con icone LVGL native al posto delle abbreviazioni."
 }
