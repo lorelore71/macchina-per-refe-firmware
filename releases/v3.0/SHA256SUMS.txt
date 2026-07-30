@@ -1,0 +1,4 @@
+e9d6ccf43eef52d63abd2a8d5657548555d649dc704630da1808e9fcd1271100  firmware-jc3248w535c-v3.0-bootloader.bin
+66554898fbbd0c4c13c43dccd9ec2073cbbd80289e426fd95ab4c6bc530cef4a  firmware-jc3248w535c-v3.0-merged.bin
+1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c  firmware-jc3248w535c-v3.0-partitions.bin
+452d6c516aa0d1ff02ae1775315a1b279c649f646de73b695ae7022ef26d1038  firmware-jc3248w535c-v3.0.bin

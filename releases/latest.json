@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v2.9",
-    "version":  "2.9",
-    "sha256":  "22b0b1c6da97b8d99981edfecdbeae919260324e22da0fa1b1f3470a2f59990b",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.9/firmware-jc3248w535c-v2.9-merged.bin",
+    "tag":  "v3.0",
+    "version":  "3.0",
+    "sha256":  "452d6c516aa0d1ff02ae1775315a1b279c649f646de73b695ae7022ef26d1038",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.0/firmware-jc3248w535c-v3.0-merged.bin",
     "date":  "2026-07-30",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.9/firmware-jc3248w535c-v2.9.bin",
-    "notes":  "Firmware v2.9: mapping pin motori allineato al cablaggio reale e Help con punto interrogativo."
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.0/firmware-jc3248w535c-v3.0.bin",
+    "notes":  "Firmware v3.0: uscite motori abilitate; START porta EN a GND, STOP disabilita i driver."
 }
