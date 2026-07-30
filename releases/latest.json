@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v2.8",
-    "version":  "2.8",
-    "sha256":  "9722ef605ccae82abbf3d0c1b8f4d77f1a95b7d756ba2956a2902f49553e2d0f",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.8/firmware-jc3248w535c-v2.8-merged.bin",
+    "tag":  "v2.9",
+    "version":  "2.9",
+    "sha256":  "22b0b1c6da97b8d99981edfecdbeae919260324e22da0fa1b1f3470a2f59990b",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.9/firmware-jc3248w535c-v2.9-merged.bin",
     "date":  "2026-07-30",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.8/firmware-jc3248w535c-v2.8.bin",
-    "notes":  "Firmware v2.8: pulsanti firmware con icone LVGL native al posto delle abbreviazioni."
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v2.9/firmware-jc3248w535c-v2.9.bin",
+    "notes":  "Firmware v2.9: mapping pin motori allineato al cablaggio reale e Help con punto interrogativo."
 }
