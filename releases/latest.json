@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v3.0",
-    "version":  "3.0",
-    "sha256":  "452d6c516aa0d1ff02ae1775315a1b279c649f646de73b695ae7022ef26d1038",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.0/firmware-jc3248w535c-v3.0-merged.bin",
-    "date":  "2026-07-30",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.0/firmware-jc3248w535c-v3.0.bin",
-    "notes":  "Firmware v3.0: uscite motori abilitate; START porta EN a GND, STOP disabilita i driver."
+    "tag":  "v3.1",
+    "version":  "3.1",
+    "sha256":  "a8f6ed18f4862c30a7cab56f9f4300f2179dcf803b75e7e3ab0d73b93abc2073",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.1/firmware-jc3248w535c-v3.1-merged.bin",
+    "date":  "2026-07-31",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.1/firmware-jc3248w535c-v3.1.bin",
+    "notes":  "Firmware v3.1: FastAccelStepper affidabile su Display; STOP ripartenza corretto; AUTO arresta sul valore assoluto dei giri target."
 }
