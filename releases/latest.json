@@ -1,9 +1,9 @@
 ﻿{
-    "tag":  "v3.2",
-    "version":  "3.2",
-    "sha256":  "41557c9de785dc19b94e54c4a8d7906faeaef960c493b8325474bae521e5d878",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.2/firmware-jc3248w535c-v3.2-merged.bin",
-    "date":  "2026-07-31",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.2/firmware-jc3248w535c-v3.2.bin",
-    "notes":  "Firmware v3.2: editor preset con tastierino numerico/alfanumerico, rapporto preservato al salvataggio, UI Display aggiornata e preset su microSD."
+    "tag":  "v3.3",
+    "version":  "3.3",
+    "sha256":  "15cb727fea8fc78afe5e33672a3c6966f84585fe74d64b9f7930c7e27c190aeb",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.3/firmware-jc3248w535c-v3.3-merged.bin",
+    "date":  "2026-08-01",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.3/firmware-jc3248w535c-v3.3.bin",
+    "notes":  "Firmware v3.3: preset 1 letto di default da microSD, UI Main/Help/Comandi manuali rifinita, icona Wi-Fi corretta e limite RPM utente rimosso."
 }
