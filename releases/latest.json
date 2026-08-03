@@ -1,9 +1,9 @@
-﻿{
-    "tag":  "v3.5",
-    "version":  "3.5",
-    "sha256":  "c90b8ed4b1ad0d5edcf211b93f7a527444c95d512249d38094d6d6d517d0457c",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.5/firmware-jc3248w535c-v3.5-merged.bin",
-    "date":  "2026-08-01",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.5/firmware-jc3248w535c-v3.5.bin",
-    "notes":  "Firmware v3.5 provvisorio: esporta automaticamente su microSD le schermate firmware in BMP per italiano, inglese e spagnolo."
+{
+  "tag": "v3.6",
+  "version": "3.6",
+  "date": "2026-08-04",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.6/firmware-jc3248w535c-v3.6.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.6/firmware-jc3248w535c-v3.6-merged.bin",
+  "sha256": "0fb4d079985e47832b7912161c3b800a2a31d5b5540fcd69dac21b36b94c69ca",
+  "notes": "Firmware v3.6: attivazione tramite licenza legata al MAC, demo mode con motori disabilitati se non attivato e pagina attivazione nel manuale."
 }
