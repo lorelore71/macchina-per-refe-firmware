@@ -1,9 +1,12 @@
 {
-  "tag": "v3.6",
-  "version": "3.6",
-  "date": "2026-08-04",
-  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.6/firmware-jc3248w535c-v3.6.bin",
-  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.6/firmware-jc3248w535c-v3.6-merged.bin",
-  "sha256": "0fb4d079985e47832b7912161c3b800a2a31d5b5540fcd69dac21b36b94c69ca",
-  "notes": "Firmware v3.6: attivazione tramite licenza legata al MAC, demo mode con motori disabilitati se non attivato e pagina attivazione nel manuale."
+  "tag": "v3.7",
+  "version": "3.7",
+  "date": "2026-08-28",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.7/firmware-jc3248w535c-v3.7.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.7/firmware-jc3248w535c-v3.7-merged.bin",
+  "sha256": "0793eb47ceb0c245c365bab888ef304cd29d270f41636931e8209567bc6d82f5",
+  "rigging_db_version": "rev51",
+  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.7/rigging_db_rev51.csv",
+  "rigging_db_sha256": "8264e9fb286810366ac39c0445de1b5ca9ae757e9bfc1bdbc6e6a0d52957db8f",
+  "notes": "Firmware v3.7: database rigging aggiornabile via Wi-Fi su microSD e scelta guidata vascello/manovra con ricerca testuale."
 }
