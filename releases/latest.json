@@ -4,7 +4,7 @@
   "date": "2026-08-29",
   "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/firmware-jc3248w535c-v3.9.bin",
   "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/firmware-jc3248w535c-v3.9-merged.bin",
-  "sha256": "b3520a74d6668fa8412b2602b82512d66b26428d6c03b2f9a20fa23a0eb2e3a0",
+  "sha256": "093de803370cbdc9a51c074af02867e55b98233d651fd7e7f71bd760426cbf48",
   "rigging_db_version": "rev56-full",
   "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/rigging_db_rev56.csv",
   "rigging_db_sha256": "8c8f004f28487b3eeaab83eaee9f177a506fea271c4b1f95a8677078d22bf8c4",
