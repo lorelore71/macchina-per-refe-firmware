@@ -1,18 +1,18 @@
 {
-  "tag": "v3.13",
-  "version": "3.13",
+  "tag": "v3.14",
+  "version": "3.14",
   "date": "2026-08-29",
-  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/firmware-jc3248w535c-v3.13.bin",
-  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/firmware-jc3248w535c-v3.13-merged.bin",
-  "sha256": "5cb9b6f7186cdb32c0c734a9d9b0e626b8862ce598867ecbc55ca026ebaa4429",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/firmware-jc3248w535c-v3.14.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/firmware-jc3248w535c-v3.14-merged.bin",
+  "sha256": "4f79f4983d103b23b80c2f647f63d850adbeb30cb681286f5dbaac5b711c77a3",
   "rigging_db_version": "rev56-full",
-  "rigging_bundle_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/rigging_bundle_rev56.csv",
+  "rigging_bundle_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/rigging_bundle_rev56.csv",
   "rigging_bundle_sha256": "744f0492dcacf26158baa70179ca69f35f0fb8be0fb9fe930c3d71038d0568f3",
-  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/rigging_db_rev56.csv",
+  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/rigging_db_rev56.csv",
   "rigging_db_sha256": "8c8f004f28487b3eeaab83eaee9f177a506fea271c4b1f95a8677078d22bf8c4",
-  "rigging_ships_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/ships_rev56.csv",
+  "rigging_ships_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/ships_rev56.csv",
   "rigging_ships_sha256": "57e8cdcd33f939f621600e805130527147e3205c0bfbfec016a15e6de6412d5d",
-  "rigging_classes_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.13/rigging_classes_rev56.csv",
+  "rigging_classes_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.14/rigging_classes_rev56.csv",
   "rigging_classes_sha256": "99505d56485ba1994cadc40a1da9a7c39d7f083c2c6b9c8f7b1afbffdbef8980",
-  "notes": "Firmware v3.13: diametri refe normalizzati a 0.40/0.50/0.55/0.60/0.70/0.80/0.90/1.10/1.50mm."
+  "notes": "Firmware v3.14: aggiunte ricette normalizzate 1.20mm e 1.40mm da prove 50/49; confermata tensione 250g sopra 1.00mm."
 }
