@@ -1,12 +1,16 @@
 {
-  "tag": "v3.8",
-  "version": "3.8",
-  "date": "2026-08-28",
-  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.8/firmware-jc3248w535c-v3.8.bin",
-  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.8/firmware-jc3248w535c-v3.8-merged.bin",
-  "sha256": "54f56686d1b22989c8c89818508e0451d0f4b494ba120dc6173060be21c7e316",
+  "tag": "v3.9",
+  "version": "3.9",
+  "date": "2026-08-29",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/firmware-jc3248w535c-v3.9.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/firmware-jc3248w535c-v3.9-merged.bin",
+  "sha256": "2e3b531c4e04d656bc5c66a648aef028dac99d29ccbb8c1b6f59e82d64164f7b",
   "rigging_db_version": "rev56",
-  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.8/rigging_db_rev56.csv",
+  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/rigging_db_rev56.csv",
   "rigging_db_sha256": "8c8f004f28487b3eeaab83eaee9f177a506fea271c4b1f95a8677078d22bf8c4",
-  "notes": "Firmware v3.8: database rigging OTA aggiornato a rev56 con diametri numerici e classi Steel uniformi."
+  "rigging_ships_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/ships_rev56.csv",
+  "rigging_ships_sha256": "57e8cdcd33f939f621600e805130527147e3205c0bfbfec016a15e6de6412d5d",
+  "rigging_classes_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.9/rigging_classes_rev56.csv",
+  "rigging_classes_sha256": "99505d56485ba1994cadc40a1da9a7c39d7f083c2c6b9c8f7b1afbffdbef8980",
+  "notes": "Firmware v3.9: usa database rigging rev56 con elenco vascelli separato, classi Steel e dettaglio manovra."
 }

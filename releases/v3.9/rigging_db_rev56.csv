@@ -1,0 +1,129 @@
+version,rev56
+id,section,en,it,es,vanguard,victory,agamemnon,bounty,diana
+1,BOWSPRIT,BOWSPRIT — Woolding,BOMPRESSO — Cerchiatura/legatura del bompresso,BAUPRÉS — Ligadura del bauprés,,28.30,24.26,16.17,24.26
+2,BOWSPRIT,BOWSPRIT — Gammonings,BOMPRESSO — Legature (gammoning) del bompresso,BAUPRÉS — Trincas del bauprés,,64.68,56.60,36.38,48.51
+3,BOWSPRIT,"BOWSPRIT — Shrouds, fine",BOMPRESSO — Briglie/sartie del bompresso,BAUPRÉS — Obenques del bauprés,,64.68,60.64,36.38,48.51
+4,BOWSPRIT,"BOWSPRIT — Bobstays, cabled fine",BOMPRESSO — Stragli inferiori del bompresso (bobstays),BAUPRÉS — Barbiquejos del bauprés,,68.72,64.68,40.43,56.60
+5,SPRITSAIL,SPRITSAIL — Braces,CIVADA — Bracci del pennone di civada,CEBADERA — Brazas de la verga cebadera,,28.30,24.26,20.21,20.21
+6,SPRITSAIL,SPRITSAIL — Lifts,CIVADA — Amantigli del pennone di civada,CEBADERA — Amantillos de la verga cebadera,,36.38,24.26,16.17,20.21
+7,SPRITSAIL,SPRITSAIL — Halliard,CIVADA — Drizza del pennone di civada,CEBADERA — Driza de la verga cebadera,,44.47,24.26,16.17,20.21
+8,SPRITSAIL,SPRITSAIL — Clew-lines,CIVADA — Imbrogli della civada,CEBADERA — Chafaldetes de la cebadera,,36.38,20.21,12.13,16.17
+9,SPRITSAIL,SPRITSAIL — Buntlines,CIVADA — Caricaboline della civada,CEBADERA — Cargaderas de la cebadera,,24.26,16.17,8.09,16.17
+10,SPRITSAIL,"SPRITSAIL — Sheets, cabled single",CIVADA — Scotte della civada,CEBADERA — Escotas de la cebadera,,44.47,36.38,24.26,28.30
+11,FORE MAST,"FORE MAST — Shrouds, cabled fine",ALBERO DI TRINCHETTO — Sartie di trinchetto,PALO TRINQUETE — Obenques del trinquete,,88.94,84.89,56.60,72.77
+12,FORE MAST,FORE MAST — Ratling,ALBERO DI TRINCHETTO — Griselle di trinchetto,PALO TRINQUETE — Flechastes del trinquete,,8.09,12.13,12.13,12.13
+13,FORE MAST,"FORE MAST — Stay, cabled fine 4 strands",ALBERO DI TRINCHETTO — Strallo di trinchetto,PALO TRINQUETE — Estay del trinquete,,145.53,129.36,76.81,105.11
+14,FORE MAST,"FORE MAST — Preventer stay, cabled 4 strands fine",ALBERO DI TRINCHETTO — Controstrallo di trinchetto,PALO TRINQUETE — Contraestay del trinquete,,121.28,84.89,48.51,68.72
+15,FORE MAST,FORE MAST — Catharpin legs,ALBERO DI TRINCHETTO — Catarpine di trinchetto,PALO TRINQUETE — Catarpinas del trinquete,,56.60,52.55,28.30,40.43
+16,FORE MAST,FORE MAST — Jeers — tye,ALBERO DI TRINCHETTO — Jeers/drizza del pennone di trinchetto,PALO TRINQUETE — Aparejo de izado de la verga de trinquete,,64.68,52.55,0,44.47
+17,FORE MAST,FORE MAST — Yard tackle pendants,ALBERO DI TRINCHETTO — Pendenti dei paranchi del pennone di trinchetto,PALO TRINQUETE — Pendientes de aparejos de la verga de trinquete,,56.60,52.55,36.38,44.47
+18,FORE MAST,FORE MAST — Braces,ALBERO DI TRINCHETTO — Bracci del pennone di trinchetto,PALO TRINQUETE — Brazas de la verga de trinquete,,36.38,32.34,28.30,28.30
+19,FORE MAST,FORE MAST — Brace pendants,ALBERO DI TRINCHETTO — Pendenti dei bracci di trinchetto,PALO TRINQUETE — Pendientes de las brazas de trinquete,,44.47,40.43,28.30,36.38
+20,FORE TOPMAST,FORE TOPMAST — Burton pendants,ALBERETTO DI PARROCCHETTO — Pendenti Burton di parrocchetto,MASTELERO DE VELACHO DE PROA — Pendientes Burton del mastelero de proa,,44.47,40.43,40.43,32.34
+21,FORE TOPMAST,"FORE TOPMAST — Shrouds, fine",ALBERETTO DI PARROCCHETTO — Sartie di parrocchetto,MASTELERO DE VELACHO DE PROA — Obenques del mastelero de proa,,56.60,52.55,36.38,44.47
+22,FORE TOPMAST,FORE TOPMAST — Ratling,ALBERETTO DI PARROCCHETTO — Griselle di parrocchetto,MASTELERO DE VELACHO DE PROA — Flechastes del mastelero de proa,,8.09,8.09,8.09,8.09
+23,FORE TOPMAST,"FORE TOPMAST — Standing backstays, fine",ALBERETTO DI PARROCCHETTO — Paterazzi fissi di parrocchetto,MASTELERO DE VELACHO DE PROA — Brandales fijos del mastelero de proa,,56.60,52.55,36.38,44.47
+24,FORE TOPMAST,FORE TOPMAST — Breast backstay runners,ALBERETTO DI PARROCCHETTO — Corridori dei paterazzi laterali di parrocchetto,MASTELERO DE VELACHO DE PROA — Corredores de brandales del mastelero de proa,,40.43,32.34,24.26,28.30
+25,FORE TOPMAST,"FORE TOPMAST — Stay, cabled 4 strands fine",ALBERETTO DI PARROCCHETTO — Strallo di parrocchetto,MASTELERO DE VELACHO DE PROA — Estay del mastelero de proa,,72.77,60.64,40.43,48.51
+26,FORE TOPMAST,"FORE TOPMAST — Preventer stay, cabled 4 strands fine",ALBERETTO DI PARROCCHETTO — Controstrallo di parrocchetto,MASTELERO DE VELACHO DE PROA — Contraestay del mastelero de proa,,52.55,44.47,32.34,36.38
+27,FORE TOPMAST,"FORE TOPMAST — Shifting backstays, fine",ALBERETTO DI PARROCCHETTO — Paterazzi volanti di parrocchetto,MASTELERO DE VELACHO DE PROA — Brandales volantes del mastelero de proa,,56.60,52.55,36.38,40.43
+28,FORE TOPMAST,"FORE TOPMAST — Futtock shrouds, fine",ALBERETTO DI PARROCCHETTO — Sartie di coffa di parrocchetto,MASTELERO DE VELACHO DE PROA — Obenquillos de cofa del mastelero de proa,,56.60,52.55,36.38,44.47
+29,FORE TOPMAST,"FORE TOPMAST — Top rope pendants, fine",ALBERETTO DI PARROCCHETTO — Pendenti del top-rope di parrocchetto,MASTELERO DE VELACHO DE PROA — Pendientes del cabo de izado del mastelero de proa,,72.77,68.72,48.51,56.60
+30,FORE TOPMAST,FORE TOPMAST — Tye,ALBERETTO DI PARROCCHETTO — Tye/drizza del parrocchetto,MASTELERO DE VELACHO DE PROA — Driza del mastelero de proa,,48.51,44.47,36.38,36.38
+31,FORE TOPMAST,FORE TOPMAST — Braces,ALBERETTO DI PARROCCHETTO — Bracci del parrocchetto,MASTELERO DE VELACHO DE PROA — Brazas de la gavia de proa,,28.30,28.30,16.17,24.26
+32,FORE TOPMAST,FORE TOPMAST — Lifts,ALBERETTO DI PARROCCHETTO — Amantigli del parrocchetto,MASTELERO DE VELACHO DE PROA — Amantillos de la gavia de proa,,28.30,28.30,20.21,24.26
+33,FORE TOPMAST,FORE TOPMAST — Clewlines,ALBERETTO DI PARROCCHETTO — Imbrogli del parrocchetto,MASTELERO DE VELACHO DE PROA — Chafaldetes de la gavia de proa,,32.34,28.30,16.17,24.26
+34,FORE TOPMAST,FORE TOPMAST — Buntlines,ALBERETTO DI PARROCCHETTO — Caricaboline del parrocchetto,MASTELERO DE VELACHO DE PROA — Cargaderas de la gavia de proa,,24.26,24.26,16.17,20.21
+35,FORE TOPMAST,FORE TOPMAST — Leechlines,ALBERETTO DI PARROCCHETTO — Caricascotte/leechlines del parrocchetto,MASTELERO DE VELACHO DE PROA — Cargaderas de pujamen de la gavia de proa,,24.26,20.21,12.13,16.17
+36,FORE TOPMAST,FORE TOPMAST — Bowlines,ALBERETTO DI PARROCCHETTO — Boline del parrocchetto,MASTELERO DE VELACHO DE PROA — Bolinas de la gavia de proa,,36.38,24.26,16.17,20.21
+37,FORE TOPMAST,FORE TOPMAST — Sheets,ALBERETTO DI PARROCCHETTO — Scotte del parrocchetto,MASTELERO DE VELACHO DE PROA — Escotas de la gavia de proa,,64.68,56.60,32.34,44.47
+38,MAIN MAST,"MAIN MAST — Shrouds, cabled fine",ALBERO MAESTRO — Sartie maestre,PALO MAYOR — Obenques del palo mayor,,97.02,84.89,56.60,72.77
+39,MAIN MAST,MAIN MAST — Ratling,ALBERO MAESTRO — Griselle maestre,PALO MAYOR — Flechastes del palo mayor,,8.09,12.13,12.13,12.13
+40,MAIN MAST,"MAIN MAST — Stay, cabled 4 strands fine",ALBERO MAESTRO — Strallo maestro,PALO MAYOR — Estay mayor,,153.62,141.49,80.85,113.19
+41,MAIN MAST,"MAIN MAST — Preventer stay, cabled 4 strands fine",ALBERO MAESTRO — Controstrallo maestro,PALO MAYOR — Contraestay mayor,,129.36,97.02,56.60,76.81
+42,MAIN MAST,MAIN MAST — Catharpin legs,ALBERO MAESTRO — Catarpine maestre,PALO MAYOR — Catarpinas del palo mayor,,56.60,52.55,28.30,40.43
+43,MAIN MAST,MAIN MAST — Jeers — tye,ALBERO MAESTRO — Jeers/drizza del pennone maestro,PALO MAYOR — Aparejo de izado de la verga mayor,,64.68,56.60,56.60,48.51
+44,MAIN MAST,MAIN MAST — Yard tackle pendants,ALBERO MAESTRO — Pendenti dei paranchi del pennone maestro,PALO MAYOR — Pendientes de aparejos de la verga mayor,,56.60,52.55,36.38,44.47
+45,MAIN MAST,MAIN MAST — Braces,ALBERO MAESTRO — Bracci del pennone maestro,PALO MAYOR — Brazas de la verga mayor,,36.38,32.34,16.17,28.30
+46,MAIN MAST,MAIN MAST — Brace pendants,ALBERO MAESTRO — Pendenti dei bracci maestri,PALO MAYOR — Pendientes de las brazas mayores,,44.47,40.43,28.30,36.38
+47,MAIN MAST,MAIN MAST — Lifts,ALBERO MAESTRO — Amantigli del pennone maestro,PALO MAYOR — Amantillos de la verga mayor,,36.38,32.34,24.26,28.30
+48,MAIN COURSE,MAIN COURSE — Clew-garnets,VELA MAESTRA — Caricascotte della maestra,VELA MAYOR — Chafaldetes de la vela mayor,,32.34,28.30,20.21,24.26
+49,MAIN COURSE,MAIN COURSE — Buntline legs,VELA MAESTRA — Caricaboline della maestra,VELA MAYOR — Cargaderas de la vela mayor,,24.26,24.26,16.17,20.21
+50,MAIN COURSE,MAIN COURSE — Leechline legs,VELA MAESTRA — Leechlines della maestra,VELA MAYOR — Cargaderas de caída de la vela mayor,,24.26,20.21,16.17,16.17
+51,MAIN COURSE,MAIN COURSE — Slablines,VELA MAESTRA — Slablines della maestra,VELA MAYOR — Cargaderas centrales de la vela mayor,,20.21,16.17,12.13,16.17
+52,MAIN COURSE,MAIN COURSE — Bowlines,VELA MAESTRA — Boline della maestra,VELA MAYOR — Bolinas de la vela mayor,,36.38,36.38,24.26,28.30
+53,MAIN COURSE,"MAIN COURSE — Sheets, cabled",VELA MAESTRA — Scotte della maestra,VELA MAYOR — Escotas de la vela mayor,,60.64,52.55,36.38,44.47
+54,MAIN COURSE,"MAIN COURSE — Tacks, taper and cabled",VELA MAESTRA — Mure della maestra,VELA MAYOR — Amuras de la vela mayor,,80.85,68.72,44.47,56.60
+55,MAIN TOPMAST,MAIN TOPMAST — Burton pendants,ALBERETTO DI GABBIA MAESTRA — Pendenti Burton di gabbia maestra,MASTELERO DE GAVIA MAYOR — Pendientes Burton de la gavia mayor,,44.47,40.43,24.26,32.34
+56,MAIN TOPMAST,"MAIN TOPMAST — Shrouds, fine",ALBERETTO DI GABBIA MAESTRA — Sartie di gabbia maestra,MASTELERO DE GAVIA MAYOR — Obenques de la gavia mayor,,56.60,52.55,36.38,44.47
+57,MAIN TOPMAST,MAIN TOPMAST — Ratling,ALBERETTO DI GABBIA MAESTRA — Griselle di gabbia maestra,MASTELERO DE GAVIA MAYOR — Flechastes de la gavia mayor,,8.09,8.09,8.09,8.09
+58,MAIN TOPMAST,"MAIN TOPMAST — Standing backstays, fine",ALBERETTO DI GABBIA MAESTRA — Paterazzi fissi di gabbia maestra,MASTELERO DE GAVIA MAYOR — Brandales fijos de la gavia mayor,,56.60,52.55,36.38,44.47
+59,MAIN TOPMAST,MAIN TOPMAST — Breast backstay runners,ALBERETTO DI GABBIA MAESTRA — Corridori paterazzi laterali di gabbia,MASTELERO DE GAVIA MAYOR — Corredores de brandales de la gavia mayor,,40.43,32.34,24.26,28.30
+60,MAIN TOPMAST,"MAIN TOPMAST — Stay, cabled 4 strands fine",ALBERETTO DI GABBIA MAESTRA — Strallo di gabbia maestra,MASTELERO DE GAVIA MAYOR — Estay de la gavia mayor,,72.77,60.64,44.47,48.51
+61,MAIN TOPMAST,"MAIN TOPMAST — Preventer stay, cabled 4 strands fine",ALBERETTO DI GABBIA MAESTRA — Controstrallo di gabbia maestra,MASTELERO DE GAVIA MAYOR — Contraestay de la gavia mayor,,56.60,48.51,32.34,36.38
+62,MAIN TOPMAST,"MAIN TOPMAST — Shifting backstays, fine",ALBERETTO DI GABBIA MAESTRA — Paterazzi volanti di gabbia maestra,MASTELERO DE GAVIA MAYOR — Brandales volantes de la gavia mayor,,56.60,52.55,36.38,44.47
+63,MAIN TOPMAST,"MAIN TOPMAST — Futtock shrouds, fine",ALBERETTO DI GABBIA MAESTRA — Sartie di coffa di gabbia maestra,MASTELERO DE GAVIA MAYOR — Obenquillos de cofa de la gavia mayor,,56.60,52.55,36.38,44.47
+64,MAIN TOPMAST,"MAIN TOPMAST — Top rope pendants, fine",ALBERETTO DI GABBIA MAESTRA — Pendenti top-rope di gabbia maestra,MASTELERO DE GAVIA MAYOR — Pendientes del cabo de izado de la gavia mayor,,72.77,68.72,48.51,56.60
+65,MAIN TOPGALLANT,MAIN TOPGALLANT — Shrouds,ALBERETTO DI VELACCIO MAESTRO — Sartie di velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Obenques del juanete mayor,,32.34,28.30,20.21,24.26
+66,MAIN TOPGALLANT,MAIN TOPGALLANT — Standing backstays,ALBERETTO DI VELACCIO MAESTRO — Paterazzi fissi di velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Brandales fijos del juanete mayor,,32.34,28.30,20.21,24.26
+67,MAIN TOPGALLANT,"MAIN TOPGALLANT — Stay, cabled 4 strands",ALBERETTO DI VELACCIO MAESTRO — Strallo di velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Estay del juanete mayor,,36.38,32.34,24.26,28.30
+68,MAIN TOPGALLANT,MAIN TOPGALLANT — Tye,ALBERETTO DI VELACCIO MAESTRO — Tye/drizza del velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Driza del juanete mayor,,32.34,28.30,20.21,24.26
+69,MAIN TOPGALLANT,MAIN TOPGALLANT — Braces,ALBERETTO DI VELACCIO MAESTRO — Bracci del velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Brazas del juanete mayor,,20.21,16.17,12.13,12.13
+70,MAIN TOPGALLANT,"MAIN TOPGALLANT — Lifts, single",ALBERETTO DI VELACCIO MAESTRO — Amantigli del velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Amantillos del juanete mayor,,20.21,16.17,16.17,20.21
+71,MAIN TOPGALLANT,MAIN TOPGALLANT — Clewlines,ALBERETTO DI VELACCIO MAESTRO — Imbrogli del velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Chafaldetes del juanete mayor,,16.17,16.17,8.09,12.13
+72,MAIN TOPGALLANT,MAIN TOPGALLANT — Bowlines,ALBERETTO DI VELACCIO MAESTRO — Boline del velaccio maestro,MASTELERILLO DE JUANETE MAYOR — Bolinas del juanete mayor,,16.17,16.17,8.09,12.13
+73,MIZEN MAST,"MIZEN MAST — Shrouds, fine",ALBERO DI MEZZANA — Sartie di mezzana,PALO DE MESANA — Obenques de mesana,,56.60,52.55,36.38,44.47
+74,MIZEN MAST,MIZEN MAST — Ratling,ALBERO DI MEZZANA — Griselle di mezzana,PALO DE MESANA — Flechastes de mesana,,8.09,8.09,8.09,8.09
+75,MIZEN MAST,"MIZEN MAST — Stay, cabled 4 strands fine",ALBERO DI MEZZANA — Strallo di mezzana,PALO DE MESANA — Estay de mesana,,68.72,60.64,44.47,48.51
+76,MIZEN MAST,MIZEN MAST — Jeers,ALBERO DI MEZZANA — Jeers della mezzana,PALO DE MESANA — Aparejo de izado de mesana,,48.51,40.43,24.26,32.34
+77,MIZEN MAST,MIZEN MAST — Vang pendants,ALBERO DI MEZZANA — Pendenti dei vang della mezzana,PALO DE MESANA — Pendientes de ostas de mesana,,32.34,32.34,24.26,28.30
+78,MIZEN MAST,MIZEN MAST — Bowlines,ALBERO DI MEZZANA — Boline della mezzana,PALO DE MESANA — Bolinas de mesana,,24.26,24.26,20.21,20.21
+79,CROSS-JACK YARD,CROSS-JACK YARD — Braces,VERGASECCA — Bracci della vergasecca,VERGA SECA — Brazas de la verga seca,,20.21,20.21,12.13,16.17
+80,CROSS-JACK YARD,"CROSS-JACK YARD — Lifts, running",VERGASECCA — Amantigli della vergasecca,VERGA SECA — Amantillos de la verga seca,,20.21,20.21,12.13,16.17
+81,MIZEN TOPMAST,"MIZEN TOPMAST — Shrouds, fine",ALBERETTO DI CONTROMEZZANA — Sartie di contromezzana,MASTELERO DE MESANA — Obenques del mastelero de mesana,,36.38,32.34,20.21,28.30
+82,MIZEN TOPMAST,MIZEN TOPMAST — Ratling,ALBERETTO DI CONTROMEZZANA — Griselle di contromezzana,MASTELERO DE MESANA — Flechastes del mastelero de mesana,,8.09,8.09,8.09,8.09
+83,MIZEN TOPMAST,"MIZEN TOPMAST — Standing backstays, fine",ALBERETTO DI CONTROMEZZANA — Paterazzi fissi di contromezzana,MASTELERO DE MESANA — Brandales fijos del mastelero de mesana,,36.38,32.34,20.21,28.30
+84,MIZEN TOPMAST,"MIZEN TOPMAST — Stay, cabled 4 strands fine",ALBERETTO DI CONTROMEZZANA — Strallo di contromezzana,MASTELERO DE MESANA — Estay del mastelero de mesana,,40.43,36.38,24.26,32.34
+85,MIZEN TOPGALLANT,MIZEN TOPGALLANT — Shrouds,ALBERETTO DI BELVEDERE — Sartie di belvedere,MASTELERILLO DE SOBREMESANA — Obenques de sobremesana,,20.21,20.21,16.17,16.17
+86,MIZEN TOPGALLANT,MIZEN TOPGALLANT — Backstays,ALBERETTO DI BELVEDERE — Paterazzi di belvedere,MASTELERILLO DE SOBREMESANA — Brandales de sobremesana,,20.21,20.21,16.17,16.17
+87,MIZEN TOPGALLANT,MIZEN TOPGALLANT — Stay,ALBERETTO DI BELVEDERE — Strallo di belvedere,MASTELERILLO DE SOBREMESANA — Estay de sobremesana,,24.26,24.26,20.21,20.21
+88,MIZEN TOPGALLANT,MIZEN TOPGALLANT — Tye,ALBERETTO DI BELVEDERE — Tye/drizza di belvedere,MASTELERILLO DE SOBREMESANA — Driza de sobremesana,,24.26,20.21,16.17,16.17
+89,NECESSARY ROPES,"NECESSARY ROPES — Viol, cabled",CORDAMI DI SERVIZIO — Viol / grande cavo di tonneggio,CABOS DE SERVICIO — Viol / gran cabo de maniobra,,113.19,105.11,56.59,80.85
+90,NECESSARY ROPES,NECESSARY ROPES — Winding tackle pendant,CORDAMI DI SERVIZIO — Pendante del paranco di tonneggio,CABOS DE SERVICIO — Pendiente del aparejo de maniobra,,105.11,97.02,56.59,76.81
+91,NECESSARY ROPES,NECESSARY ROPES — Cat falls,CORDAMI DI SERVIZIO — Cavi di caponatura dell'ancora,CABOS DE SERVICIO — Cabos de gata del ancla,,48.51,40.43,24.26,32.34
+92,NECESSARY ROPES,NECESSARY ROPES — Fish tackle pendant,CORDAMI DI SERVIZIO — Pendante del paranco di pescaggio dell'ancora,CABOS DE SERVICIO — Pendiente del aparejo de pescante del ancla,,80.85,72.77,44.47,56.60
+93,NECESSARY ROPES,NECESSARY ROPES — Fish tackle fall,CORDAMI DI SERVIZIO — Corrente del paranco di pescaggio dell'ancora,CABOS DE SERVICIO — Tira del aparejo de pescante del ancla,,36.38,32.34,24.26,28.30
+94,NECESSARY ROPES,NECESSARY ROPES — Anchor stock tackle fall,CORDAMI DI SERVIZIO — Corrente paranco del ceppo d'ancora,CABOS DE SERVICIO — Tira del aparejo del cepo del ancla,,24.26,24.26,16.17,20.21
+95,NECESSARY ROPES,NECESSARY ROPES — Bill pendant,CORDAMI DI SERVIZIO — Pendante Bill,CABOS DE SERVICIO — Pendiente Bill,,44.47,40.43,24.26,36.38
+96,NECESSARY ROPES,NECESSARY ROPES — Stoppers — sheet/best/small bower/spare,CORDAMI DI SERVIZIO — Bozze delle ancore principali,CABOS DE SERVICIO — Bozas de las anclas principales,,75.47,64.68,40.43,52.55
+97,NECESSARY ROPES,"NECESSARY ROPES — Wing, cabled",CORDAMI DI SERVIZIO — Cavo wing,CABOS DE SERVICIO — Cabo wing,,72.77,64.68,40.43,48.51
+98,NECESSARY ROPES,NECESSARY ROPES — Dog,CORDAMI DI SERVIZIO — Cavo dog,CABOS DE SERVICIO — Cabo dog,,64.68,60.64,40.43,48.51
+99,NECESSARY ROPES,"NECESSARY ROPES — Stream anchor, cabled",CORDAMI DI SERVIZIO — Gomena dell'ancora di corrente,CABOS DE SERVICIO — Cable del ancla de corriente,,40.43,36.38,24.26,32.34
+100,NECESSARY ROPES,NECESSARY ROPES — Kedge,CORDAMI DI SERVIZIO — Gomena dell'ancorotto,CABOS DE SERVICIO — Gomena dell'ancorotto,,36.38,28.30,20.21,24.26
+101,NECESSARY ROPES,"NECESSARY ROPES — Deck & bit, cabled",CORDAMI DI SERVIZIO — Cavi di coperta e bitte,CABOS DE SERVICIO — Cabos de cubierta y bitas,,97.02,84.89,56.60,68.72
+102,NECESSARY ROPES,NECESSARY ROPES — Shank painters — sheet anchor,CORDAMI DI SERVIZIO — Shank painter dell'ancora di posta,CABOS DE SERVICIO — Boza de caña del ancla principal,,72.77,32.34,36.38,44.47
+103,NECESSARY ROPES,NECESSARY ROPES — Shank painters — best bower,CORDAMI DI SERVIZIO — Shank painter best bower,CABOS DE SERVICIO — Boza de caña del best bower,,72.77,60.64,36.38,44.47
+104,NECESSARY ROPES,NECESSARY ROPES — Shank painters — small bower,CORDAMI DI SERVIZIO — Shank painter small bower,CABOS DE SERVICIO — Boza de caña del small bower,,72.77,60.64,36.38,44.47
+105,NECESSARY ROPES,NECESSARY ROPES — Shank painters — spare,CORDAMI DI SERVIZIO — Shank painter di rispetto,CABOS DE SERVICIO — Boza de caña del ancla de respeto,,72.77,60.64,36.38,44.47
+106,NECESSARY ROPES,NECESSARY ROPES — Buoy ropes — sheet anchor,CORDAMI DI SERVIZIO — Cima boa dell'ancora di posta,CABOS DE SERVICIO — Cabo de boya del ancla principal,,68.72,60.64,32.34,44.47
+107,NECESSARY ROPES,NECESSARY ROPES — Buoy ropes — best bower,CORDAMI DI SERVIZIO — Cima boa best bower,CABOS DE SERVICIO — Cabo de boya del best bower,,64.68,60.64,32.34,44.47
+108,NECESSARY ROPES,NECESSARY ROPES — Buoy ropes — small bower,CORDAMI DI SERVIZIO — Cima boa small bower,CABOS DE SERVICIO — Cabo de boya del small bower,,64.68,60.64,32.34,44.47
+109,NECESSARY ROPES,"NECESSARY ROPES — Stream anchor, cabled",CORDAMI DI SERVIZIO — Gomena ancora di corrente,CABOS DE SERVICIO — Cable del ancla de corriente,,40.43,36.38,24.26,24.26
+110,NECESSARY ROPES,"NECESSARY ROPES — Kedge, cabled",CORDAMI DI SERVIZIO — Gomena ancorotto,CABOS DE SERVICIO — Cable del anclote,,32.34,32.34,20.21,24.26
+111,NECESSARY ROPES,"NECESSARY ROPES — Rudder pendants, cabled",CORDAMI DI SERVIZIO — Pendenti del timone,CABOS DE SERVICIO — Pendientes del timón,,60.64,56.60,32.34,40.43
+112,NECESSARY ROPES,NECESSARY ROPES — Gun,CORDAMI DI SERVIZIO — Cordame per cannone (voce Steel 'Gun'),CABOS DE SERVICIO — Cabo para cañón (voz Steel 'Gun'),,64.68,64.68,36.38,48.51
+113,LONGBOAT,LONGBOAT — Burton pendants,LANCIA — Pendenti Burton della lancia,LANCHA — Pendientes Burton de la lancha,,32.34,32.34,24.25,28.30
+114,LONGBOAT,LONGBOAT — Shrouds,LANCIA — Sartie della lancia,LANCHA — Obenques de la lancha,,32.34,28.30,24.25,24.26
+115,LONGBOAT,LONGBOAT — Stay,LANCIA — Strallo della lancia,LANCHA — Estay de la lancha,,36.38,32.34,16.17,28.30
+116,LONGBOAT,LONGBOAT — Tye,LANCIA — Tye della lancia,LANCHA — Driza de la lancha,,24.26,24.26,12.13,12.13
+117,LONGBOAT,LONGBOAT — Main halliard,LANCIA — Drizza maestra della lancia,LANCHA — Driza mayor de la lancha,,16.17,16.17,8.09,12.13
+118,LONGBOAT,"LONGBOAT — Boat-rope, cabled",LANCIA — Cavo della lancia,LANCHA — Cabo de la lancha,,72.77,60.64,36.38,48.51
+119,PINNACE,PINNACE — Halliards main and fore,PINNACCIA — Drizze maestra e trinchetto della pinnaccia,PINAZA — Drizas mayor y trinquete de la pinaza,,12.13,12.13,12.13,12.13
+120,PINNACE,PINNACE — Sheets,PINNACCIA — Scotte della pinnaccia,PINAZA — Escotas de la pinaza,,12.13,12.13,12.13,12.13
+121,PINNACE,"PINNACE — Grapnel-rope, cabled",PINNACCIA — Gomena del grappino della pinnaccia,PINAZA — Cabo del rezón de la pinaza,,28.30,28.30,28.30,28.30
+122,PINNACE,PINNACE — Painter,PINNACCIA — Barbetta della pinnaccia,PINAZA — Boza de la pinaza,,28.30,28.30,28.30,28.30
+123,YAWL OR CUTTER,YAWL OR CUTTER — Halliards (if cutters),IOLE / CUTTER — Drizze della iole/cutter,YOLA / CÚTER — Drizas de la yola/cúter,,16.17,16.17,12.13,8.09
+124,YAWL OR CUTTER,YAWL OR CUTTER — Sheets,IOLE / CUTTER — Scotte della iole/cutter,YOLA / CÚTER — Escotas de la yola/cúter,,16.17,14.15,12.13,14.15
+125,YAWL OR CUTTER,"YAWL OR CUTTER — Grapnel-rope, cabled",IOLE / CUTTER — Gomena del grappino della iole/cutter,YOLA / CÚTER — Cabo del rezón de la yola/cúter,,28.30,28.30,28.30,40.43
+126,YAWL OR CUTTER,YAWL OR CUTTER — Painter,IOLE / CUTTER — Barbetta della iole/cutter,YOLA / CÚTER — Boza de la yola/cúter,,28.30,28.30,28.30,28.30
+130,GROUND TACKLE,GROUND TACKLE — Anchor cable,ANCORAGGIO — Gomena/cavo dell'ancora,FONDEO — Cable del ancla,,,,97.02,
