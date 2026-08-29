@@ -1,0 +1,20 @@
+Classe Steel,Sezione,Voce,Ø dedotto [mm],Criterio,Circonferenza storica
+32 guns,NECESSARY ROPES,"Viol, cabled",76.81,"progressione monotona per classi contigue; passo equivalente 0,5 in, con extrapolazione finale 16/14",lasciata vuota
+32 guns,LONGBOAT,Tye,12.13,valore invariato nelle classi contigue superiori,lasciata vuota
+28 guns,NECESSARY ROPES,"Viol, cabled",72.77,"progressione monotona per classi contigue; passo equivalente 0,5 in, con extrapolazione finale 16/14",lasciata vuota
+28 guns,LONGBOAT,Tye,12.13,valore invariato nelle classi contigue superiori,lasciata vuota
+24 guns,NECESSARY ROPES,"Viol, cabled",68.72,"progressione monotona per classi contigue; passo equivalente 0,5 in, con extrapolazione finale 16/14",lasciata vuota
+24 guns,LONGBOAT,Tye,12.13,valore invariato nelle classi contigue superiori,lasciata vuota
+22/20 guns,NECESSARY ROPES,"Viol, cabled",64.68,"progressione monotona per classi contigue; passo equivalente 0,5 in, con extrapolazione finale 16/14",lasciata vuota
+22/20 guns,LONGBOAT,Tye,12.13,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,MIZEN MAST,Bowlines,20.21,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,MIZEN TOPGALLANT,Shrouds,16.17,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,MIZEN TOPGALLANT,Backstays,16.17,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,MIZEN TOPGALLANT,Stay,20.21,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,MIZEN TOPGALLANT,Tye,16.17,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,NECESSARY ROPES,"Viol, cabled",56.60,"progressione monotona per classi contigue; passo equivalente 0,5 in, con extrapolazione finale 16/14",lasciata vuota
+16/14 guns,NECESSARY ROPES,Winding tackle pendant,56.60,prosecuzione del passo osservato 28→24→22/20,lasciata vuota
+16/14 guns,LONGBOAT,Burton pendants,24.26,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,LONGBOAT,Shrouds,24.26,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,LONGBOAT,Tye,12.13,valore invariato nelle classi contigue superiori,lasciata vuota
+16/14 guns,LONGBOAT,"Boat-rope, cabled",36.38,prosecuzione del passo osservato 32→28/24→22/20,lasciata vuota
