@@ -1,18 +1,18 @@
 {
-  "tag": "v3.11",
-  "version": "3.11",
+  "tag": "v3.12",
+  "version": "3.12",
   "date": "2026-08-29",
-  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/firmware-jc3248w535c-v3.11.bin",
-  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/firmware-jc3248w535c-v3.11-merged.bin",
-  "sha256": "b9a668b78d3c4b723b8e116bf9764a89185c2e889c8e3c1f12a7447ebce06d54",
+  "firmware": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/firmware-jc3248w535c-v3.12.bin",
+  "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/firmware-jc3248w535c-v3.12-merged.bin",
+  "sha256": "3c7f5342f0045dbf63ef66b3e16108b0c8fe3319a7db88b8f73aed1b4cc96159",
   "rigging_db_version": "rev56-full",
-  "rigging_bundle_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/rigging_bundle_rev56.csv",
+  "rigging_bundle_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/rigging_bundle_rev56.csv",
   "rigging_bundle_sha256": "744f0492dcacf26158baa70179ca69f35f0fb8be0fb9fe930c3d71038d0568f3",
-  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/rigging_db_rev56.csv",
+  "rigging_db_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/rigging_db_rev56.csv",
   "rigging_db_sha256": "8c8f004f28487b3eeaab83eaee9f177a506fea271c4b1f95a8677078d22bf8c4",
-  "rigging_ships_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/ships_rev56.csv",
+  "rigging_ships_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/ships_rev56.csv",
   "rigging_ships_sha256": "57e8cdcd33f939f621600e805130527147e3205c0bfbfec016a15e6de6412d5d",
-  "rigging_classes_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.11/rigging_classes_rev56.csv",
+  "rigging_classes_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.12/rigging_classes_rev56.csv",
   "rigging_classes_sha256": "99505d56485ba1994cadc40a1da9a7c39d7f083c2c6b9c8f7b1afbffdbef8980",
-  "notes": "Firmware v3.11: rinomina Diametri in Manovre e mantiene fix stack LVGL/database rev56-full."
+  "notes": "Firmware v3.12: calcolatore refe aggiornato alle 9 ricette sperimentali validate e tensione consigliata 250g da 1.10mm."
 }
