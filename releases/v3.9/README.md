@@ -22,4 +22,4 @@ Release OTA per display JC3248W535C.
 - Il vascello selezionato resta salvato e viene mostrato nello splash.
 - La lista manovre usa il vascello salvato senza richiedere riconferma a ogni avvio.
 - Dettaglio manovra con testo completo e comando `APPLICA A RICETTA`.
-- Lettura dati rev56 da microSD: `ships.csv` e `rigging_classes.csv`, con fallback su `rigging_db.csv`.
+- Lettura dati `rev56-full` da microSD: `ships.csv` e `rigging_classes.csv`, con fallback su `rigging_db.csv`.
