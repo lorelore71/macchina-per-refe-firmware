@@ -4,7 +4,7 @@
     "date":  "2026-08-30",
     "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.16/firmware-jc3248w535c-v3.16.bin",
     "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.16/firmware-jc3248w535c-v3.16-merged.bin",
-    "sha256":  "b247550c1df291bbd31c799db1f803e6204c8abdf698bd0953484b721a5c21b4",
+    "sha256":  "e135f13d096a5b0e25eba7bd6a3cc88de3fd2dd7e0fcb90272faa680f1157ec0",
     "rigging_db_version":  "rev57-full",
     "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.16/rigging_bundle_rev57.csv",
     "rigging_bundle_sha256":  "57d855e9672c9d1e69877fd923504bffb35e591ffa7056c27d93877016afbcbe",
@@ -16,5 +16,5 @@
     "rigging_classes_sha256":  "89a48e3169da223ffe3630347485122fb5c11f8372f4a6e2180fad0f698356a2",
     "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.16/diameter_normalization_rev57.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.16: database cordame completo rev57 da workbook Steel_1794_Cordame_DATABASE_COMPLETO, 214 vascelli e 9450 manovre per classi Steel."
+    "notes":  "Firmware v3.16 corretto: database cordame completo rev57, buffer manovre allocato in PSRAM per lasciare RAM interna libera a LVGL."
 }
