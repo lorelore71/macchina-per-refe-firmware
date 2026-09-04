@@ -16,5 +16,5 @@
     "rigging_classes_sha256":  "fbef97955d080eecbef10e9844eaeb07dca910927fb565b9b87d6d8e91220972",
     "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.26/diameter_normalization_rev58.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.26: prova 67 aggiornata a 900/600 per 1,00 mm piu serrato, database rev58-full invariato."
+    "notes":  "Firmware v3.26: prova 75 validata a 900/600 per 1,00 mm piu serrato; prova 67 mantenuta come storico, database rev58-full invariato."
 }
