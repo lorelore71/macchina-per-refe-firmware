@@ -1,0 +1,215 @@
+id,ship,manufacturer,scale,date,tonnage,unit,data_quality,tonnage_source,steel_class
+1,Achilles Pilot Cutter,Mantua / Sergal,1:43,1809 (kit: 1815),92,bm,identificazione probabile,https://en.wikipedia.org/wiki/HMS_Express_(1815),Cutter 200 t
+2,Al Bahran Arabian Dhow,Corel,1:50,XX secolo (tipo),65,t,dedotto da range documentato,https://www.modelerscentral.com/it/al-bahran-dhow-arabo/,16/14 guns
+3,Alert American Privateer,Mamoli,1:45,1818,75,tons,documentato,https://lcps-stamps.org/wp-content/uploads/2019/05/TheSailingNavy1775-1854Silverstone-2006.pdf,16/14 guns
+4,America,BlueJacket,1:48,1851,170,tons register,documentato,https://catalogs.marinersmuseum.org/object/CL14128,16/14 guns
+5,America,BlueJacket,1:96,1851,170,tons register,documentato,https://catalogs.marinersmuseum.org/object/CL14128,16/14 guns
+6,America Schooner,Mamoli,1:66,1851,170,tons,documentato,https://it.wikipedia.org/wiki/America_(scuna),16/14 guns
+7,Amphion,Corel,1:40,1778,249,bm equivalente,dedotto da dimensioni storiche,https://www.sjohistoriska.se/en/visit/exhibitions/amphion/amphion-an-icon,16/14 guns
+8,Armed Virginia Sloop,Model Shipways,1:48,1768,60,tons displacement,ricostruzione documentata,https://www.sdshipmodelersguild.org/documents/newsletters/SDSMG200610rc.pdf,Sloop 130 t
+9,Astrolabe,Mantua,1:50,1811,380,tonneaux,documentato,https://www.academieoutremer.fr/2026/06/08/nouvelle-acquisition-la-maquette-de-lastrolabe-de-dumont-durville/,22/20 guns
+10,Atakebune,Woody Joe,1:100,c. 1593 (tipo),500,t equivalente,tipologico / dedotto,https://zootoyz.jp/contents/en-us/p79915_ATAKE-BUNE-Japanese-Sengoku-era-Warship-Model-Kit-by-Woody-JOE.html,24 guns
+11,Baltimore Privateer Schooner Grecian,Vanguard Models,1:64,1812,228,tons/t,documentato,,16/14 guns
+12,Belle Poule,Dusek Ship Kits,1:50,1766,620,port tonneaux,documentato,https://en.wikipedia.org/wiki/French_frigate_Belle_Poule_(1766),28 guns
+13,Belle Poule,Sail & Sail Model,1:72,1766,620,port tonneaux,documentato,https://en.wikipedia.org/wiki/French_frigate_Belle_Poule_(1766),28 guns
+14,Benjamin W. Latham,Model Shipways,1:48,1902,72,gross tons,documentato,https://device.report/m/9413d66c37fae6a51ac52a55468d777b28771d264907875266b5df2b2ceb3674.pdf,16/14 guns
+15,Berlin,Corel,1:40,1674,172,bm equivalente,dedotto da dimensioni storiche,https://www.modellmarine.de/index.php/bausatzvorstellungen/230-cor/2830-fregatte-berlin-von-corel-im-massstab-140,16/14 guns
+16,Black Prince,Mamoli,1:57,1779 (kit: 1775),120,tons,identificazione probabile,https://founders.archives.gov/documents/Franklin/01-29-02-0556,16/14 guns
+17,Blue Shadow,Mamoli,1:64,1778,300,t equivalente,ricostruzione commerciale / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/mamoli_blue_shadow.html,16/14 guns
+18,Bluenose,Model Shipways,1:64,1921,285,GT,documentato,,16/14 guns
+19,Boeier,Corel,1:25,1714,100,t equivalente,nave identificata / tonnellaggio dedotto,https://www.cornwallmodelboats.co.uk/acatalog/Corel-Boeier-1714-Dutch-Yacht-1-25-SM63.html,16/14 guns
+20,Bowdoin,BlueJacket,1:48,1921,88,GT,documentato,,16/14 guns
+21,Brigantine Phoenix,Master Korabel,N/D,1787,200,t displacement equivalente,dedotto da dimensioni storiche,https://ru.ruwiki.ru/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8B%D1%85_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D1%81%D1%83%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D0%B0,Brig 160 t
+22,Britannia,Mamoli,1:64,1893,221,t displacement,documentato,https://en.wikipedia.org/wiki/HMY_Britannia_(1893),16/14 guns
+23,Britannia,Mantua,1:60,1893,221,t displacement,documentato,https://en.wikipedia.org/wiki/HMY_Britannia_(1893),16/14 guns
+24,Charles P. Notman,BlueJacket,1:96,1894,1518,gross tons,documentato,https://en.wikipedia.org/wiki/Percy_%26_Small_Shipyard,80 guns
+25,Charles W. Morgan,Model Shipways,1:64,1841,351,tons,documentato,,22/20 guns
+26,CNS Alfred,BlueJacket,1:96,1774,440,tons,documentato,https://www.history.navy.mil/research/histories/ship-histories/danfs/a/alfred-ship.html,22/20 guns
+27,Cocca Veneta,Corel,1:70,XVI secolo,200,t,ricostruzione tipologica documentata,https://premiershipmodels.com/product/venetian-cog-wooden-ship-model-kit-corel-sm24/,16/14 guns
+28,CSS Alabama,BlueJacket,1:96,1862,1800,GRT,documentato,https://it.wikipedia.org/wiki/CSS_Alabama,74 guns
+29,CSS Alabama,Mamoli,1:120,1862,1800,GRT,documentato,https://it.wikipedia.org/wiki/CSS_Alabama,74 guns
+30,Cutty Sark,Billing Boats,1:75,1869,963,GT,documentato,,50/44 guns
+31,Cutty Sark,Mantua / Sergal,1:78,1869,963,GT,documentato,,50/44 guns
+32,D'Halve Maen (Half Moon),Kolderstok,1:50,1609,80,t equivalente da 40 last,conversione da misura storica,https://www.dbnl.org/tekst/_els001190901_01/_els001190901_01_0093.php,16/14 guns
+33,De Zeven Provinciën,Kolderstok,1:72,1665,1400,t displacement,documentato,https://kolderstok.com/en/pages/onze-modellen,64 guns
+34,Derfflinger,Euromodel,1:66,1681,340,t carrying capacity,documentato,"https://de.wikipedia.org/wiki/Derfflinger_(Schiff,_1681)",16/14 guns
+35,Dolphyn,Corel,1:50,1750,180,t equivalente,stazza non reperita / proxy di classe,https://www.modelerscentral.com/products/dolphyn-dutch-privateer-ship-model-kit-corel-sm23,16/14 guns
+36,Dutch Statenjacht,Dusek Ship Kits,1:48,XVIII secolo,70,t equivalente,tipologico / dedotto,https://www.dusekshipkits.com/ship-kits,16/14 guns
+37,Dutch Whaler,Mantua / Sergal,1:60,1790,300,t equivalente,tipologico / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/sergal_models.html,16/14 guns
+38,Duyfken,Kolderstok,1:50,c. 1595,110,t displacement,documentato,https://en.wikipedia.org/wiki/Duyfken,16/14 guns
+39,Eagle,Corel,1:85,1814 (kit: 1812),212,tons,documentato,https://upload.wikimedia.org/wikipedia/commons/d/db/The_navy_of_the_United_States%2C_from_the_commencement%2C_1775_to_1853%3B_with_a_brief_history_of_each_vessel%27s_service_and_fate_.._%28IA_cu31924028730962%29.pdf,16/14 guns
+40,Falmouth,Euromodel,1:75,1752,499,tons,documentato,https://www.euromodel-ship.com/eng/falmouth.html,24 guns
+41,Fluytschip,Kolderstok,1:72,XVII secolo,350,t,tipologico da range storico,https://kolderstok.com/en/collections/modellen,16/14 guns
+42,Flying Cloud,Mamoli,1:96,1851,1782,tons register,documentato,,74 guns
+43,Friedrich Wilhelm zu Pferde,Euromodel,1:47,1661,900,tons,documentato,https://www.euromodel-ship.com/eng/friedrich-wilhelm.html,50/44 guns
+44,Friesland,Mamoli,1:75,1666,925,bm equivalente,identificazione probabile / dedotto da dimensioni,https://threedecks.org/index.php?display_type=show_ship&id=811,50/44 guns
+45,Galeone Veneta,Corel,1:70,XVI secolo,500,t equivalente,ricostruzione tipologica / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,24 guns
+46,Golden Hind,Dusek Ship Kits,1:72,c. 1577,110,bm,documentato,https://forum.finescale.com/t/golden-hind/196401,16/14 guns
+47,Golden Hind,Mamoli,1:53,c. 1577,110,bm,documentato,https://forum.finescale.com/t/golden-hind/196401,16/14 guns
+48,Greek Bireme,Amati,1:35,V sec. a.C.,35,t displacement equivalente,tipologico / archeologia sperimentale,https://en.wikipedia.org/wiki/Olympias_(trireme),16/14 guns
+49,Greek Bireme,Dusek Ship Kits,1:72,V sec. a.C.,35,t displacement equivalente,tipologico / archeologia sperimentale,https://en.wikipedia.org/wiki/Olympias_(trireme),16/14 guns
+50,Greek Trireme,Dusek Ship Kits,1:72,V sec. a.C.,47,t displacement,proxy archeologia sperimentale,https://en.wikipedia.org/wiki/Olympias_(trireme),16/14 guns
+51,Gretel,Mamoli,1:54,XVIII secolo,50,t equivalente,ricostruzione da piano Chapman / dedotto,https://www.dusekshipkits.com/gretel,16/14 guns
+52,Half Moon,Corel,1:50,1609,80,t equivalente da 40 last,conversione da misura storica,https://www.dbnl.org/tekst/_els001190901_01/_els001190901_01_0093.php,16/14 guns
+53,Halifax,Mamoli,1:54,1765,83,bm,documentato,https://en.wikipedia.org/wiki/HMS_Halifax_(1768),16/14 guns
+54,Hanse Kogge,Dusek Ship Kits,1:72,XIV secolo,140,t displacement,tipologico da ricostruzione archeologica,https://www.researchgate.net/publication/340665198_The_Bremen_Cog_-_an_archaeological_and_technical_study,16/14 guns
+55,HM Armed Cutter Sherbourne,Vanguard Models,1:64,1763,85,bm,documentato,,Cutter 200 t
+56,HM Bark Endeavour,Artesanía Latina,1:65,1764,367,bm,documentato,,22/20 guns
+57,HM Bark Endeavour,Billing Boats,1:50,1764,367,bm,documentato,,22/20 guns
+58,HM Bark Endeavour,Caldercraft / Jotika,1:64,1764,367,bm,documentato,,22/20 guns
+59,HM Bark Endeavour,Corel,1:50,1764,367,bm,documentato,,22/20 guns
+60,HM Bark Endeavour,Mantua,1:60,1764,367,bm,documentato,,22/20 guns
+61,HM Brig Badger,Caldercraft / Jotika,1:64,1777,137,tons,documentato,https://www.historicships.com/product/hm-brig-badger-amati/,Brig 160 t
+62,HM Brig Harpy,Vanguard Models,1:64,1796,316,bm,documentato,,Brig 160 t
+63,HM Brig Supply,Caldercraft / Jotika,1:64,1759,175,tons,documentato,https://archival.sl.nsw.gov.au/Details/archive/110352702,Brig 160 t
+64,HM Cutter Sherbourne,Caldercraft / Jotika,1:64,1763,85,bm,documentato,,Cutter 200 t
+65,HM Gun Brig Adder,Vanguard Models,1:64,1797,160,bm,documentato,,Brig 160 t
+66,HM Gunboat William,Caldercraft / Jotika,1:32,1795,70,bm equivalente,dedotto da tipo / nave identificata,https://www.rmg.co.uk/collections/objects/rmgc-object-86374,16/14 guns
+67,HM Mortar Vessel Convulsion,Caldercraft / Jotika,1:64,1804,76,t displacement,documentato,,16/14 guns
+68,HM Schooner Pickle,Caldercraft / Jotika,1:64,c. 1799,127,bm,documentato,,16/14 guns
+69,HM Trial Cutter,Vanguard Models,1:64,1790,123,bm,documentato,,Cutter 200 t
+70,HM Yacht Chatham,Caldercraft / Jotika,1:64,1741,90,tons,documentato,https://www.rmg.co.uk/collections/objects/rmgc-object-66244,16/14 guns
+71,HMAV Bounty,Amati,1:60,1784,220,bm,documentato,,16/14 guns
+72,HMAV Bounty,Billing Boats,1:50,1784,220,bm,documentato,,16/14 guns
+73,HMAV Bounty,Caldercraft / Jotika,1:64,1784,220,bm,documentato,,16/14 guns
+74,HMAV Bounty,Corel,1:130,1784,220,bm,documentato,,16/14 guns
+75,HMAV Bounty,Mamoli,1:100,1784,220,bm,documentato,,16/14 guns
+76,HMAV Bounty,Mamoli,1:64,1784,220,bm,documentato,,16/14 guns
+77,HMAV Bounty,Mantua / Sergal,1:60,1784,220,bm,documentato,,16/14 guns
+78,HMS Agamemnon,Caldercraft / Jotika,1:64,1781,1384,bm,documentato,,64 guns
+79,HMS Alert,Trident Model,1:48,1777,183,tons,documentato,https://doverhistorian.com/2018/11/10/shipbuilding-and-shipbuilders-part-ii/,16/14 guns
+80,HMS Alert,Vanguard Models,1:64,1777,183,tons,documentato,https://doverhistorian.com/2018/11/10/shipbuilding-and-shipbuilders-part-ii/,16/14 guns
+81,HMS Ballahoo,Caldercraft / Jotika,1:64,1804,70,bm,documentato,,16/14 guns
+82,HMS Beagle,Mamoli,1:64,1820,235,bm,documentato,,16/14 guns
+83,HMS Beagle,OcCre,1:60,1820,235,bm,documentato,,16/14 guns
+84,HMS Bellona,Corel,1:100,1760,1615,bm,documentato,,80 guns
+85,HMS Cruiser,Caldercraft / Jotika,1:64,1797,382,bm,documentato,,22/20 guns
+86,HMS Cruizer,Caldercraft / Jotika,1:64,1797,382,bm,documentato,,22/20 guns
+87,HMS Diana,Caldercraft / Jotika,1:64,1794,999,bm,documentato,,50/44 guns
+88,HMS Endeavour,Mamoli,1:100,1764,367,bm,documentato,,22/20 guns
+89,HMS Enterprise,CAF Model,1:48,1774,593,bm,documentato,https://en.wikipedia.org/wiki/HMS_Enterprise_(1774),28 guns
+90,HMS Flirt,Vanguard Models,1:64,1782,208,bm,documentato,,16/14 guns
+91,HMS Fly,Amati / Victory Models,1:64,1776,302,bm,documentato,,16/14 guns
+92,HMS Granado,Amati / Victory Models,1:64,1742,268,bm,documentato,,16/14 guns
+93,HMS Granado,Caldercraft / Jotika,1:64,1742,268,bm,documentato,,16/14 guns
+94,HMS Greyhound,Corel,1:100,1720,371,bm,documentato,,22/20 guns
+95,HMS Indefatigable,Vanguard Models,1:64,1784,384,bm,documentato,,22/20 guns
+96,HMS Jalouse,Caldercraft / Jotika,1:64,1794,348,bm,documentato,,16/14 guns
+97,HMS Mars,Caldercraft / Jotika,1:64,c. 1770s,396,bm,documentato,,22/20 guns
+98,HMS Neptune,Corel,1:90,c. 1690,900,bm equivalente,ricostruzione commerciale / dedotto,https://www.modelerscentral.com/products/hms-neptune-ship-model-kit-corel-sm28,50/44 guns
+99,HMS Ontario,MarisStella,1:48,1780,226,bm,documentato,https://en.wikipedia.org/wiki/HMS_Ontario_(1780),16/14 guns
+100,HMS Pegasus,Amati / Victory Models,1:64,1776,301,bm,documentato,,16/14 guns
+101,HMS Peregrine,Corel,1:96,18th century,197,bm,documentato,https://en.wikipedia.org/wiki/HMS_Peregrine_Galley,16/14 guns
+102,HMS Prince,Mamoli,1:144,1670,1403,bm,documentato,https://en.wikipedia.org/wiki/HMS_Prince_(1670),64 guns
+103,HMS Royal William,Euromodel,1:72,1719,1600,t displacement,documentato,https://www.euromodel-ship.com/eng/royal-william.html,80 guns
+104,HMS Snake,Caldercraft / Jotika,1:64,1797,385,bm,documentato,,22/20 guns
+105,HMS Speedy,Vanguard Models,1:64,1782,207,bm,documentato,,16/14 guns
+106,HMS Sphinx,Vanguard Models,1:64,1775,431,bm,documentato,https://threedecks.org/index.php?display_type=show_class&id=229,22/20 guns
+107,HMS Surprise,Mamoli,1:75,1794,578,bm,documentato,,28 guns
+108,HMS Surprise,ZHL / ShiCheng Models,1:48,1794,578,bm,documentato,,28 guns
+109,HMS Surprise (ex Unité),Vanguard Models,1:64,1794,578,bm,documentato,,28 guns
+110,HMS Swift,Mamoli,1:70,1777,302,bm,documentato,https://en.wikipedia.org/wiki/HMS_Swift_(1777),16/14 guns
+111,HMS Unicorn,Corel,1:75,1748,581,bm,documentato,,28 guns
+112,HMS Vanguard,Amati / Victory Models,1:72,1787,1609,bm,documentato,,80 guns
+113,HMS Victory,Artesanía Latina,1:84,1765,2162,bm,documentato,,110/100 guns
+114,HMS Victory,Billing Boats,1:75,1765,2162,bm,documentato,,110/100 guns
+115,HMS Victory,Caldercraft / Jotika,1:72,1765,2162,bm,documentato,,110/100 guns
+116,HMS Victory,Corel,1:98,1765,2162,bm,documentato,,110/100 guns
+117,HMS Victory,Mamoli,1:150,1765,2162,bm,documentato,,110/100 guns
+118,HMS Victory,Mamoli,1:90,1765,2162,bm,documentato,,110/100 guns
+119,HMS Victory,Mantua / Panart,1:78,1765,2162,bm,documentato,,110/100 guns
+120,HMS Victory,Mantua / Sergal,1:78,1765,2162,bm,documentato,,110/100 guns
+121,HMS Victory,OcCre,1:87,1765,2162,bm,documentato,,110/100 guns
+122,Hunter Armed Cutter,Mamoli,1:72,c. 1797,130,tons equivalente,tipologico da range storico,https://www.gutenberg.org/files/43677/43677-h/43677-h.htm,Cutter 200 t
+123,King of Prussia,Corel,1:42,XVIII secolo,200,t equivalente,ricostruzione commerciale / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,16/14 guns
+124,L'Orenoque,Mamoli,1:100,1848,2568,t displacement,documentato,https://navesinkmaritime.org/page-1228113,110/100 guns
+125,La Couronne,Corel,1:100,1636,1500,tons,documentato,https://en.wikipedia.org/wiki/French_ship_Couronne_(1636),80 guns
+126,La Gloire,Mamoli,1:90,1778,620,tonneaux burthen,documentato,https://threedecks.org/index.php?display_type=show_ship&id=11169,28 guns
+127,La Real,Dusek Ship Kits,1:72,1568/1571,237,t empty displacement,documentato,https://en.wikipedia.org/wiki/Real_(galley),16/14 guns
+128,La Renommée,Euromodel,1:70,1744,620,port tonneaux,documentato,,28 guns
+129,La Toulonnaise,Corel,1:75,1823,250,t displacement,documentato da fonte secondaria,https://www.modelerscentral.com/products/la-toulonnaise-schooner-ship-model-kit-corel-sm17,16/14 guns
+130,Le Cerf,Dusek Ship Kits,1:72,1779,300,tonneaux displacement,documentato,https://www.ifmer.org/assets/documents/files/revues_maritime/527/17_Apercu%20d%27architecture%20navale%20aux%20temps%20de%20la%20marine%20en%20bois.pdf,16/14 guns
+131,Le Coureur,CAF Model,1:48,1776,65,tonneaux capacity,documentato,https://www.musee-villele.re/fr/notice/1989-180-le-coureur-9f81a585-49bb-4167-9d8b-cc370b573d27,16/14 guns
+132,Le Coureur,Mamoli,1:54,1776,65,tonneaux capacity,documentato,https://www.musee-villele.re/fr/notice/1989-180-le-coureur-9f81a585-49bb-4167-9d8b-cc370b573d27,16/14 guns
+133,Le Mirage,Corel,1:75,XVIII secolo,1500,t equivalente,ricostruzione commerciale / dedotto,https://shipsofscale.com/sosforums/,80 guns
+134,Le Tonnant,Corel,1:50,XVIII secolo,350,t equivalente,ricostruzione da piani / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,16/14 guns
+135,Lexington,Mamoli,1:100,1775,86,tons,documentato,,16/14 guns
+136,Maria HF31,Dusek Ship Kits,1:72,XX secolo,70,GT equivalente,dedotto da dimensioni / nave reale,https://www.dusekshipkits.com/maria-hf31,16/14 guns
+137,Mary Rose,Caldercraft / Jotika,1:80,1511,500,tons burthen,documentato,https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&uid=1121974,24 guns
+138,Mayflower,Corel,1:130,c. 1615,180,tons burthen,stima storica,https://en.wikipedia.org/wiki/Mayflower,16/14 guns
+139,Mayflower,Mamoli,1:70,c. 1615,180,tons burthen,stima storica,https://en.wikipedia.org/wiki/Mayflower,16/14 guns
+140,Mayflower,Model Shipways,1:64,c. 1615,180,tons burthen,stima storica,https://en.wikipedia.org/wiki/Mayflower,16/14 guns
+141,Mistique,Corel,1:50,1750,200,t equivalente,ricostruzione tipologica / dedotto,https://shipsofscale.com/sosforums/,16/14 guns
+142,Montañés,OcCre,1:70,1794,1500,toneladas de arqueo,documentato,https://batalladetrafalgar.com/esp.htm,80 guns
+143,Morel,Master Korabel,1:36,1720/21,10,t displacement equivalente,prototipo / dedotto da dimensioni,https://premiershipmodels.com/product/morel-wooden-model-ship-kit-master-korabel/,16/14 guns
+144,Niña,Dusek Ship Kits,1:72,1492,55,tons burthen,intervallo storico / valore centrale,https://en.wikipedia.org/wiki/Ni%C3%B1a,16/14 guns
+145,Nuestra Señora,Dusek Ship Kits,1:72,1687,1500,t displacement,documentato,https://www.dusekshipkits.com/nuestra-senora,80 guns
+146,Nuestra Señora de las Mercedes,OcCre,1:85,1788,984,toneladas de arqueo,documentato,https://www.despertaferro-ediciones.com/revistas/numero/arqueologia-e-historia-n-o3-el-tesoro-de-la-mercedes/,50/44 guns
+147,Nuestra Señora del Pilar,OcCre,1:46,1733,1000,t displacement,documentato,,50/44 guns
+148,Oseberg Ship,Ships of Pavel Nikitin,1:25,c. 820,20,t displacement equivalente,archeologia / dedotto,https://www.vikingtidsmuseet.no/english/the-collection/oseberg/,16/14 guns
+149,Oseberg Ship,Ships of Pavel Nikitin,1:32,c. 820,20,t displacement equivalente,archeologia / dedotto,https://www.vikingtidsmuseet.no/english/the-collection/oseberg/,16/14 guns
+150,Oseberg Viking Ship,Amati,1:50,c. 820,20,t displacement equivalente,archeologia / dedotto,https://www.vikingtidsmuseet.no/english/the-collection/oseberg/,16/14 guns
+151,Phantom Pilot Boat,Model Shipways,1:96,1867,51,tons,documentato,https://en.wikipedia.org/wiki/Phantom_(pilot_boat),16/14 guns
+152,Pinta,Amati,1:65,1492,65,tons burthen,intervallo storico / valore centrale,https://en.wikipedia.org/wiki/Pinta_(ship),16/14 guns
+153,Pinta,Dusek Ship Kits,1:72,1492,65,tons burthen,intervallo storico / valore centrale,https://en.wikipedia.org/wiki/Pinta_(ship),16/14 guns
+154,Pinta,Mantua,1:50,1492,65,tons burthen,intervallo storico / valore centrale,https://en.wikipedia.org/wiki/Pinta_(ship),16/14 guns
+155,Prins Willem,Corel,1:100,1650,1200,tons burthen,documentato,https://en.wikipedia.org/wiki/Prins_Willem,50/44 guns
+156,Ragusian Galleon,MarisStella,1:59,XVI secolo,700,t equivalente,tipologico / dedotto,https://shipsofscale.com/sosforums/threads/maristella-ragusian-galleon-16th-century-1-59-scale.7281/,32 guns
+157,Ranger,Corel,1:50,1823,150,tons equivalente,tipologico / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,16/14 guns
+158,Rattlesnake,Mamoli,1:64,1781,199,bm,documentato,https://device.report/m/958ce667235bcbb29ade6c272ccd4d3d5b40b8ef41a721c426d1aa62e7cb1db8,16/14 guns
+159,Rattlesnake,Model Shipways,1:64,1780,199,bm,documentato,https://device.report/m/958ce667235bcbb29ade6c272ccd4d3d5b40b8ef41a721c426d1aa62e7cb1db8,16/14 guns
+160,Reale de France,Corel,1:60,1694,280,t displacement,documentato,https://fr.wikipedia.org/wiki/La_R%C3%A9ale_(1694),16/14 guns
+161,Red Jacket,BlueJacket,1:96,1853,2305,tons register,documentato,,110/100 guns
+162,Revenge,Amati / Victory Models,1:64,1577,440,tons burthen,documentato,https://en.wikipedia.org/wiki/English_ship_Revenge_(1577),22/20 guns
+163,Royal Caroline,Mantua / Panart,1:47,1750,232,bm,documentato,https://www.smsc.org.au/imagesDB/wysiwyg/SpecialIssue8Feb18-Nemeth-RoyalCaroline.pdf,16/14 guns
+164,Royal Caroline,ZHL / YuanQing,1:30,1750,232,bm,documentato,https://www.smsc.org.au/imagesDB/wysiwyg/SpecialIssue8Feb18-Nemeth-RoyalCaroline.pdf,16/14 guns
+165,Royal Caroline,ZHL / YuanQing,1:50,1750,232,bm,documentato,https://www.smsc.org.au/imagesDB/wysiwyg/SpecialIssue8Feb18-Nemeth-RoyalCaroline.pdf,16/14 guns
+166,Royal Louis,Mamoli,1:90,1780,2400,port tonneaux,documentato,https://en.wikipedia.org/wiki/French_ship_Royal_Louis_(1780),110/100 guns
+167,Royal Yacht Duchess of Kingston,Vanguard Models,1:64,1778,206,bm,documentato,,16/14 guns
+168,Russian Brig Mercury,Amati / Victory Models,1:64,1820,445,t displacement,documentato,,Brig 160 t
+169,San Bartolome,Ships of Pavel Nikitin,1:64,XVII secolo,400,t equivalente,ricostruzione commerciale / dedotto,https://shipsofscale.com/sosforums/,22/20 guns
+170,San Felipe,Mantua / Panart,1:75,c. 1690 (kit attribution),1890,t displacement equivalente,commerciale / storicità controversa,https://shipsofscale.com/sosforums/threads/san-felipe-and-santisima-trinidad.7688/,98/90 guns
+171,San Felipe,OcCre,1:86,c. 1690 (kit attribution),1890,t displacement equivalente,commerciale / storicità controversa,https://shipsofscale.com/sosforums/threads/san-felipe-and-santisima-trinidad.7688/,98/90 guns
+172,San Felipe,ZHL,1:50,c. 1690 (kit attribution),1890,t displacement equivalente,commerciale / storicità controversa,https://shipsofscale.com/sosforums/threads/san-felipe-and-santisima-trinidad.7688/,98/90 guns
+173,San Francisco II,Artesanía Latina,1:90,XVI–XVII secolo,400,t equivalente,ricostruzione tipologica / dedotto,https://artesanialatina.net/it/4853-galeone-san-francisco-ii-1-90-modello-di-nave-in-legno.html,22/20 guns
+174,San Ildefonso,OcCre,1:70,1785,1620,toneladas,documentato,https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhn_143.pdf,80 guns
+175,San Juan Nepomuceno,Artesanía Latina,1:90,1765,1740,bm,documentato,https://en.wikipedia.org/wiki/Spanish_ship_San_Juan_Nepomuceno,74 guns
+176,San Martín,Dusek Ship Kits,1:72,1580,1000,t displacement,documentato,https://it.wikipedia.org/wiki/San_Mart%C3%ADn_(galeone),50/44 guns
+177,San Martín,OcCre,1:90,1580 (Spanish service),1000,t displacement,documentato,https://it.wikipedia.org/wiki/San_Mart%C3%ADn_(galeone),50/44 guns
+178,Santa Ana,Artesanía Latina,1:84,1784,2112,toneladas,documentato,https://en.wikipedia.org/wiki/Spanish_ship_Santa_Ana_(1784),110/100 guns
+179,Santa Maria,Dusek Ship Kits,1:72,1492,100,tons burthen,stima storica,https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship),16/14 guns
+180,Santa Maria,Mamoli,1:50,1492,100,tons burthen,stima storica,https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship),16/14 guns
+181,Santa Maria,Mantua,1:50,1492,100,tons burthen,stima storica,https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship),16/14 guns
+182,Santa Maria,MarisStella,N/D,1492,100,tons burthen,stima storica,https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship),16/14 guns
+183,Santa Maria,Ships of Pavel Nikitin,1:48,1492,100,tons burthen,stima storica,https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship),16/14 guns
+184,Santísima Trinidad,Artesanía Latina,1:84,1769,2475,bm,documentato,https://es.wikipedia.org/wiki/Sant%C3%ADsima_Trinidad_(1769),110/100 guns
+185,Santísima Trinidad,OcCre,1:90,1769,2475,bm,documentato,https://es.wikipedia.org/wiki/Sant%C3%ADsima_Trinidad_(1769),110/100 guns
+186,Schooner Wyoming,BlueJacket,1:96,1909,3730,GRT,documentato,,110/100 guns
+187,Scotland Baltic Ketch,Corel,1:64,1775,100,t equivalente,tipologico / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,Ketch 150 t
+188,Shenandoah,Corel,1:50,1804,300,t equivalente,ricostruzione commerciale / dedotto,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,16/14 guns
+189,Sirene,Corel,1:75,XVIII secolo,650,tonneaux equivalente,progetto / ricostruzione dedotta,https://www.cornwallmodelboats.co.uk/acatalog/corel.html,32 guns
+190,Sovereign of the Seas,DeAgostini,1:84,1637,1522,bm,documentato,https://3decks.pbworks.com/w/page/914664/HBMS%20Sovereign%20of%20the%20Seas%20%281637%29,80 guns
+191,Sovereign of the Seas,Mantua / Sergal,1:78,1637,1522,bm,documentato,https://3decks.pbworks.com/w/page/914664/HBMS%20Sovereign%20of%20the%20Seas%20%281637%29,80 guns
+192,Spray,BlueJacket,1:32,1891,13,tons register,documentato,,16/14 guns
+193,St. Gabriel,Master Korabel,1:72,1728,100,t displacement equivalente,dedotto da dimensioni storiche,https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB_(%D0%B1%D0%BE%D1%82),16/14 guns
+194,Sultana,Model Shipways,1:64,1767,52,bm,documentato,https://en.wikipedia.org/wiki/HMS_Sultana_(1768),16/14 guns
+195,US Brig Syren,Model Shipways,1:64,1803,298,bm,documentato,https://en.wikipedia.org/wiki/USS_Syren_(1803),Brig 160 t
+196,USRC Harriet Lane,Model Shipways,N/D,1857,639,bm,documentato,https://en.wikipedia.org/wiki/USRC_Harriet_Lane,32 guns
+197,USS Confederacy,Model Shipways,1:64,1778,959,bm,documentato,,50/44 guns
+198,USS Constitution,Billing Boats,1:100,1797,1576,tons,documentato,,80 guns
+199,USS Constitution,BlueJacket,1:96,1797,1576,tons,documentato,,80 guns
+200,USS Constitution,Mamoli,1:93,1797,1576,tons,documentato,,80 guns
+201,USS Constitution,Model Shipways,1:76,1797,1576,tons,documentato,,80 guns
+202,USS Essex,Model Shipways,1:76,1799,897,bm,documentato,,50/44 guns
+203,USS Niagara,Model Shipways,1:64,1813,492,tons burthen,documentato,,24 guns
+204,Vasa,Corel,1:75,1628,1225,t displacement,intervallo museale / valore centrale,https://faq.vasamuseet.se/category/45/article/1262?lang=en,64 guns
+205,Vasa,Mantua / Sergal,1:60,1628,1225,t displacement,intervallo museale / valore centrale,https://faq.vasamuseet.se/category/45/article/1262?lang=en,64 guns
+206,Viking Gokstad,Dusek Ship Kits,1:35,c. 890,30,t displacement,archeologia sperimentale / documentato,https://en.wikipedia.org/wiki/Gokstad_ship,16/14 guns
+207,Viking Gokstad,Dusek Ship Kits,1:72,c. 890,30,t displacement,archeologia sperimentale / documentato,https://en.wikipedia.org/wiki/Gokstad_ship,16/14 guns
+208,Viking Knarr,Dusek Ship Kits,1:35,XI secolo,26,t displacement,proxy archeologia sperimentale,https://www.vikingeskibsmuseet.dk/en/professions/boatyard/building-projects/ottar,16/14 guns
+209,Viking Longship,Dusek Ship Kits,1:35,X secolo,30,t displacement equivalente,tipologico da nave archeologica,https://en.wikipedia.org/wiki/Gokstad_ship,16/14 guns
+210,Viking Longship,Dusek Ship Kits,1:72,X secolo,30,t displacement equivalente,tipologico da nave archeologica,https://en.wikipedia.org/wiki/Gokstad_ship,16/14 guns
+211,VOC Batavia,Kolderstok,1:72,1628,600,tons / 300 lasten,documentato,https://rgssa.org.au/heritage/treasures/pelsaerts-account-of-the-wreck-of-the-batavia,28 guns
+212,Wijdschip / Smalschip,Kolderstok,1:72,XVII secolo,80,t equivalente,tipologico / dedotto,https://kolderstok.com/en/collections/modellen,16/14 guns
+213,Willem Barentsz Expedition Ship,Kolderstok,1:50,1596,100,t equivalente,ricostruzione storica / dedotto,https://kolderstok.com/en/collections/modellen,16/14 guns
+214,Willie Bennett,Model Shipways,1:32,1899,8,gross tons,documentato,https://www.scribd.com/document/383938742/00031655,16/14 guns
