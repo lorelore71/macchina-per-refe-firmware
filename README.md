@@ -6,10 +6,11 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
 
 ## Ultima versione
 
-- Versione: `v2.1`
+- Versione: `v3.40`
 - Manifest: `releases/latest.json`
-- Firmware OTA: `releases/v2.1/firmware-jc3248w535c-v2.1.bin`
-- Immagine USB completa: `releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin`
+- Firmware OTA: `releases/v3.40/firmware-jc3248w535c-v3.40.bin`
+- Immagine USB completa: `releases/v3.40/firmware-jc3248w535c-v3.40-merged.bin`
+- Database rigging: `rev61`
 
 ## URL usato dal display
 
@@ -20,7 +21,7 @@ https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/rel
 ## Installazione USB completa
 
 ```powershell
-python -m esptool --chip esp32s3 --port COM5 --baud 921600 write_flash 0x0 releases/v2.1/firmware-jc3248w535c-v2.1-merged.bin
+python -m esptool --chip esp32s3 --port COM5 --baud 921600 write_flash 0x0 releases/v3.40/firmware-jc3248w535c-v3.40-merged.bin
 ```
 
 ## OTA
@@ -28,5 +29,5 @@ python -m esptool --chip esp32s3 --port COM5 --baud 921600 write_flash 0x0 relea
 Il file applicativo per OTA e':
 
 ```text
-releases/v2.1/firmware-jc3248w535c-v2.1.bin
+releases/v3.40/firmware-jc3248w535c-v3.40.bin
 ```
