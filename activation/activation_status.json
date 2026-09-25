@@ -1,6 +1,6 @@
 {
   "issued": "2026-09-25",
   "product": "Smart Ropewalk activation",
-  "signature": "MEQCIB3P83TRzk94UIThEaHprGrUmkbNKJPCY/kAG0Z1NwR7AiAl3QmjDXUTuDZl1PgUkUY6E/JnLS4LygoGA0QTcWIjew==",
-  "states": "14:C1:9F:4D:7E:F0=ACTIVE;14:C1:9F:4E:62:E4=REVOKED"
+  "signature": "MEQCIAw67jFkAa7dlG8HHmNUvwuMGS/RarwBX2HguFScGQl1AiBgTdpQT8RtQYf9ULFuGNe45U4j2oram4/R61fV0ce51A==",
+  "states": "14:C1:9F:4D:7E:F0=ACTIVE;14:C1:9F:4E:62:E4=ACTIVE"
 }
