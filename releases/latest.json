@@ -1,10 +1,10 @@
 ﻿{
-    "tag":  "v3.42",
-    "version":  "3.42",
+    "tag":  "v3.43",
+    "version":  "3.43",
     "date":  "2026-09-25",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.42/firmware-jc3248w535c-v3.42.bin",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.42/firmware-jc3248w535c-v3.42-merged.bin",
-    "sha256":  "45ac8bac0ebd1f06b2f8040dfc46e5c0a549cc50b2a1e168a6ba97519f995701",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.43/firmware-jc3248w535c-v3.43.bin",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.43/firmware-jc3248w535c-v3.43-merged.bin",
+    "sha256":  "e171c700bf465d61d276e4b3ecb57b783beeae57e0218e31ae3559f1e43f9959",
     "rigging_db_version":  "rev61",
     "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.40/rigging_bundle_rev61.csv",
     "rigging_bundle_sha256":  "ede9a2cffe936701bf8f8a11a140f94724cf519657c46a2fcac5eaa80fbc532c",
@@ -16,5 +16,5 @@
     "rigging_classes_sha256":  "48709b72d6341e9a28a67d8cd884dd3c276387bba88f78a45a7fbaeba5d0f8bd",
     "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.40/diameter_normalization_rev61.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.42: verifica online dell\u0027attivazione tramite elenco firmato; lo stato revocato prevale sulla licenza locale."
+    "notes":  "Firmware v3.43: il controllo aggiornamenti e la verifica licenza ignorano le copie memorizzate del manifest."
 }
