@@ -1,9 +1,9 @@
-e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8  diameter_normalization_rev64.csv
-5a96b2f52d2ff09cc015a8f87f78343c60a63c2f940139dafd24f43ec35b48e1  firmware-jc3248w535c-v3.49.bin
-e9d6ccf43eef52d63abd2a8d5657548555d649dc704630da1808e9fcd1271100  firmware-jc3248w535c-v3.49-bootloader.bin
-696dd05fbbadf436dfde76382ab3a186bf3b4692b3877f4496a778ca1fd9665d  firmware-jc3248w535c-v3.49-merged.bin
-1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c  firmware-jc3248w535c-v3.49-partitions.bin
-c1e7c37d2958e4072e2588906e65b953e1f522d54e92943c01e74e800ed768fa  rigging_bundle_rev64.csv
-48709b72d6341e9a28a67d8cd884dd3c276387bba88f78a45a7fbaeba5d0f8bd  rigging_classes_rev64.csv
-ea553cbd4ed826a7ef9bf7c6ea2bbd175b2c2fdb20ad88183a27a8a1e38c4a3f  rigging_db_rev64.csv
-dfd98fd47d81e33795fd6337c9fb645ab8c48b630d54dbcc3ba134d05bb7ec11  ships_rev64.csv
+@{Algorithm=SHA256; Hash=E3C5883B5D8AF32C4722A9E976BCAB49BCA9F0DAA49A32178482B60274E09EF8; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\diameter_normalization_rev64.csv}.Hash.ToLowerInvariant()  diameter_normalization_rev64.csv
+@{Algorithm=SHA256; Hash=5A96B2F52D2FF09CC015A8F87F78343C60A63C2F940139DAFD24F43EC35B48E1; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\firmware-jc3248w535c-v3.49.bin}.Hash.ToLowerInvariant()  firmware-jc3248w535c-v3.49.bin
+@{Algorithm=SHA256; Hash=E9D6CCF43EEF52D63ABD2A8D5657548555D649DC704630DA1808E9FCD1271100; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\firmware-jc3248w535c-v3.49-bootloader.bin}.Hash.ToLowerInvariant()  firmware-jc3248w535c-v3.49-bootloader.bin
+@{Algorithm=SHA256; Hash=696DD05FBBADF436DFDE76382AB3A186BF3B4692B3877F4496A778CA1FD9665D; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\firmware-jc3248w535c-v3.49-merged.bin}.Hash.ToLowerInvariant()  firmware-jc3248w535c-v3.49-merged.bin
+@{Algorithm=SHA256; Hash=1D9CCA96DE0FE07AD7FC0648B9878DDECD9CE565E38B589AD20FEA698ED4C80C; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\firmware-jc3248w535c-v3.49-partitions.bin}.Hash.ToLowerInvariant()  firmware-jc3248w535c-v3.49-partitions.bin
+@{Algorithm=SHA256; Hash=C1E7C37D2958E4072E2588906E65B953E1F522D54E92943C01E74E800ED768FA; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\rigging_bundle_rev64.csv}.Hash.ToLowerInvariant()  rigging_bundle_rev64.csv
+@{Algorithm=SHA256; Hash=48709B72D6341E9A28A67D8CD884DD3C276387BBA88F78A45A7FBAEBA5D0F8BD; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\rigging_classes_rev64.csv}.Hash.ToLowerInvariant()  rigging_classes_rev64.csv
+@{Algorithm=SHA256; Hash=EA553CBD4ED826A7EF9BF7C6EA2BBD175B2C2FDB20AD88183A27A8A1E38C4A3F; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\rigging_db_rev64.csv}.Hash.ToLowerInvariant()  rigging_db_rev64.csv
+@{Algorithm=SHA256; Hash=DFD98FD47D81E33795FD6337C9FB645AB8C48B630D54DBCC3BA134D05BB7EC11; Path=D:\Codex ChatGPT\macchina-per-refe-firmware\releases\v3.49\ships_rev64.csv}.Hash.ToLowerInvariant()  ships_rev64.csv
