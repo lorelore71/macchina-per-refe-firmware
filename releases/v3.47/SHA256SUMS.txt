@@ -1,0 +1,1 @@
+4ffff7d9a460bfc1361ccf8f12e762b88dfae354b697bc085a22dd8af755cfaf  firmware-jc3248w535c-v3.47.bin
