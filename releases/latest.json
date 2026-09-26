@@ -7,7 +7,7 @@
     "sha256":  "6db37eafbddd99e094ae312cbcfbaf662741f35ef94938a2fd5adcce8f7845d8",
     "rigging_db_version":  "rev64",
     "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.50/rigging_bundle_rev64.csv",
-    "rigging_bundle_sha256":  "c1e7c37d2958e4072e2588906e65b953e1f522d54e92943c01e74e800ed768fa",
+    "rigging_bundle_sha256":  "663e73e17ccf4b0aa106071489a292cda1e5f0b0d69a92fb986fea91ea6cf2c7",
     "rigging_db_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.50/rigging_db_rev64.csv",
     "rigging_db_sha256":  "ea553cbd4ed826a7ef9bf7c6ea2bbd175b2c2fdb20ad88183a27a8a1e38c4a3f",
     "ships_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.50/ships_rev64.csv",
