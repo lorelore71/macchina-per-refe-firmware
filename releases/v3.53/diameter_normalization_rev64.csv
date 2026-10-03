@@ -1,0 +1,35 @@
+Foglio,Cella,Voce,Valore precedente,Ø numerico [mm],Criterio
+Steel 80 guns,F125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 64 guns,H125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 50-44 guns,F97,NECESSARY ROPES — Stoppers — sheet/best/small bower/spare,52.55 / 48.51 / 48.51 / 48.51,49.52,media aritmetica dei valori multipli
+Steel 50-44 guns,F125,YAWL OR CUTTER — Sheets,16.17 / 12.13,14.15,media aritmetica dei valori multipli
+Steel 38 guns,H125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 36 guns,F125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 32 guns,F123,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 28 guns,F125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 24 guns,F125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel 22-20 guns,F125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,media aritmetica dei valori multipli
+Steel Brig 160t,F91,YAWL OR CUTTER — Sheets,12.1 / 8.1,10.10,media aritmetica dei valori multipli
+Steel - matrice classi,I125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 80 guns / media se necessario
+Steel - matrice classi,M125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 64 guns / media se necessario
+Steel - matrice classi,O97,NECESSARY ROPES — Stoppers — sheet/best/small bower/spare,52.55 / 48.51 / 48.51 / 48.51,49.52,sincronizzato con Steel 50-44 guns / media se necessario
+Steel - matrice classi,O125,YAWL OR CUTTER — Sheets,16.17 / 12.13,14.15,sincronizzato con Steel 50-44 guns / media se necessario
+Steel - matrice classi,Q125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 38 guns / media se necessario
+Steel - matrice classi,S125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 36 guns / media se necessario
+Steel - matrice classi,U125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 32 guns / media se necessario
+Steel - matrice classi,W125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 28 guns / media se necessario
+Steel - matrice classi,Y125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 24 guns / media se necessario
+Steel - matrice classi,AA125,YAWL OR CUTTER — Sheets,16.2 / 12.1,14.15,sincronizzato con Steel 22-20 guns / media se necessario
+Steel - matrice classi,AE125,YAWL OR CUTTER — Sheets,12.1 / 8.1,10.10,sincronizzato con Steel Brig 160t / media se necessario
+Rigging,G79,MIZEN MAST — Bowlines,N/D,20.21,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,G86,MIZEN TOPGALLANT — Shrouds,N/P,16.17,fallback numerico dalla classe Steel 16/14 guns (precedente N/P)
+Rigging,G87,MIZEN TOPGALLANT — Backstays,N/P,16.17,fallback numerico dalla classe Steel 16/14 guns (precedente N/P)
+Rigging,G88,MIZEN TOPGALLANT — Stay,N/P,20.21,fallback numerico dalla classe Steel 16/14 guns (precedente N/P)
+Rigging,G89,MIZEN TOPGALLANT — Tye,N/P,16.17,fallback numerico dalla classe Steel 16/14 guns (precedente N/P)
+Rigging,G90,"NECESSARY ROPES — Viol, cabled",N/D,56.59,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,G91,NECESSARY ROPES — Winding tackle pendant,N/D,56.59,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,E97,NECESSARY ROPES — Stoppers — sheet/best/small bower/spare,76.8 / 72.8 / 76.8,75.47,valore unico dalla classe Steel 110/100 guns
+Rigging,G114,LONGBOAT — Burton pendants,N/D,24.25,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,G115,LONGBOAT — Shrouds,N/D,24.25,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,G117,LONGBOAT — Tye,N/D,12.13,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
+Rigging,G119,"LONGBOAT — Boat-rope, cabled",N/D,36.38,fallback numerico dalla classe Steel 16/14 guns (precedente N/D)
