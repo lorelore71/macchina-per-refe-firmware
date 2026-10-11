@@ -1,10 +1,10 @@
 ﻿{
-    "tag":  "v3.53",
-    "version":  "3.53",
-    "date":  "2026-10-03",
-    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/firmware-jc3248w535c-v3.53.bin",
-    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/firmware-jc3248w535c-v3.53-merged.bin",
-    "sha256":  "15fe4368d0d68619b5188e094f0ed6cb1c7b685c60a4ef0c54fd07c7676e200f",
+    "tag":  "v3.54",
+    "version":  "3.54",
+    "date":  "2026-10-11",
+    "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.54/firmware-jc3248w535c-v3.54.bin",
+    "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.54/firmware-jc3248w535c-v3.54-merged.bin",
+    "sha256":  "49c0b9a377b7e2339b6460a84fdd284c9c38412fa3c993cf7a978e10d73a57aa",
     "rigging_db_version":  "rev64",
     "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/rigging_bundle_rev64.csv",
     "rigging_bundle_sha256":  "c1e7c37d2958e4072e2588906e65b953e1f522d54e92943c01e74e800ed768fa",
@@ -16,5 +16,5 @@
     "rigging_classes_sha256":  "48709b72d6341e9a28a67d8cd884dd3c276387bba88f78a45a7fbaeba5d0f8bd",
     "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/diameter_normalization_rev64.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.53: regola unica di tensionamento per diametro finale, con protezione a 30 g per naturali molto sottili a trefolo singolo. Database rev64 invariato."
+    "notes":  "Firmware v3.54: protezione a 30 g per trefoli singoli sotto 0,10 mm e passaggio automatico da torsioni ad avvolgimenti in pausa al raggiungimento del target. Database rev64 invariato."
 }
