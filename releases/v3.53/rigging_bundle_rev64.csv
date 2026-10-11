@@ -1,5 +1,5 @@
 #file,rigging_db.csv
-version,rev63
+version,rev64
 id,section,en,it,es,vanguard,victory,agamemnon,bounty,diana
 #end
 #file,ships.csv
