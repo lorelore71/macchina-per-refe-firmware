@@ -4,7 +4,7 @@
     "date":  "2026-10-11",
     "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.55/firmware-jc3248w535c-v3.55.bin",
     "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.55/firmware-jc3248w535c-v3.55-merged.bin",
-    "sha256":  "ff2860dc9a7d88d44bf9da997d56c1bea23d1a7c1c44cb16d8b32b793932af08",
+    "sha256":  "6e365e40cb2b6f176e080fa4f7c2cdad54a8d21032a3dc449605f60873e50b04",
     "rigging_db_version":  "rev64",
     "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/rigging_bundle_rev64.csv",
     "rigging_bundle_sha256":  "fa22dd0170dfa3467321d920bffd9d8c8aae43cbd20b02f69b54c224ca7deab5",
@@ -16,5 +16,5 @@
     "rigging_classes_sha256":  "48709b72d6341e9a28a67d8cd884dd3c276387bba88f78a45a7fbaeba5d0f8bd",
     "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.53/diameter_normalization_rev64.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.55: aggiunto logo grafico nella schermata iniziale. Database rev64 invariato."
+    "notes":  "Firmware v3.55: logo nella schermata iniziale e correzione della persistenza/verifica automatica dell'attivazione online. Database rev64 invariato."
 }
