@@ -1,4 +1,4 @@
-# Smart Ropewalk firmware 3.56
+﻿# Smart Ropewalk firmware 3.56
 
 ## Improvements
 
@@ -16,3 +16,4 @@
 - `firmware-jc3248w535c-v3.56.bin`: firmware application for Wi-Fi OTA update.
 - `firmware-jc3248w535c-v3.56-merged.bin`: complete image for USB flashing.
 - `SHA256SUMS.txt`: integrity hashes for every binary.
+

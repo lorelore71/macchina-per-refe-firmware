@@ -1,20 +1,20 @@
-{
+﻿{
     "tag":  "v3.56",
     "version":  "3.56",
     "date":  "2026-10-14",
     "firmware":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/firmware-jc3248w535c-v3.56.bin",
     "merged":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/firmware-jc3248w535c-v3.56-merged.bin",
     "sha256":  "021ea735486ef78d1d2bd11e0592bda7ce59c6dc511b45d1a5201e2e91b23aa4",
-    "rigging_db_version":  "rev65",
-    "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_bundle_rev65.csv",
-    "rigging_bundle_sha256":  "fd4bb85e4cfbf052ff7bbbfe01794ab2f5e439041fe3a37f42eabb72c75f3f08",
-    "rigging_db_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_db_rev65.csv",
-    "rigging_db_sha256":  "9b89d6db2992ec7047f364485b13683ec8bcab107f8af2f1551d17e6b6e9a86a",
-    "ships_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/ships_rev65.csv",
-    "ships_sha256":  "2ad48d0a1845a981c07e3faaf401761876179d1adda829b2ac8f783a5dc1a603",
-    "rigging_classes_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_classes_rev65.csv",
+    "rigging_db_version":  "rev66",
+    "rigging_bundle_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_bundle_rev66.csv",
+    "rigging_bundle_sha256":  "49e807c944aefdbfc0d5473f194c68c3c64eadb62e79a4a0906680139a47c818",
+    "rigging_db_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_db_rev66.csv",
+    "rigging_db_sha256":  "a439b2b6b4620738be6ea6a4d57162516f5188ff849ee81126901cd1de297723",
+    "ships_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/ships_rev66.csv",
+    "ships_sha256":  "840a2687d51dc6ad381e8cec9356a26d6962c9b43684d9ea8d8eb25875da94c3",
+    "rigging_classes_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/rigging_classes_rev66.csv",
     "rigging_classes_sha256":  "0d3ff08e7f1a3b822387cb4cbe07ff33f273e036c9c87308404a8364bac9423a",
-    "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/diameter_normalization_rev65.csv",
+    "diameter_normalization_url":  "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.56/diameter_normalization_rev66.csv",
     "diameter_normalization_sha256":  "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-    "notes":  "Firmware v3.56: ricalcolo completo della ricetta dopo modifiche manuali a trefoli totali o gruppi. Database rigging rev65: aggiunti kit DeAgostini HMS Victory, HMAV Bounty, San Giovanni Battista e Soleil Royal."
+    "notes":  "Firmware v3.56: ricalcolo completo della ricetta dopo modifiche manuali a trefoli totali o gruppi. Database rigging rev66: audit cataloghi OcCre e Artesania Latina, con nuovi vascelli Gjoa, HMS Terror, Hermione La Fayette e Belem."
 }
