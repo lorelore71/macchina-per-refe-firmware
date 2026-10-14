@@ -10,7 +10,7 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
 - Manifest: `releases/latest.json`
 - Firmware OTA: `releases/v3.56/firmware-jc3248w535c-v3.56.bin`
 - Immagine USB completa: `releases/v3.56/firmware-jc3248w535c-v3.56-merged.bin`
-- Database rigging: `rev64`
+- Database rigging: `rev65`
 
 ## Novita v3.56
 

@@ -8,7 +8,7 @@
 
 ## Unchanged
 
-- Rigging database: `rev64`.
+- Rigging database: `rev65`, with verified DeAgostini kits for HMS Victory, HMAV Bounty, San Giovanni Battista and Soleil Royal.
 - Motor pin mapping, motor control behaviour and activation system.
 
 ## Files
