@@ -6,17 +6,18 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
 
 ## Ultima versione
 
-- Versione: `v3.56`
+- Versione: `v3.57`
 - Manifest: `releases/latest.json`
-- Firmware OTA: `releases/v3.56/firmware-jc3248w535c-v3.56.bin`
-- Immagine USB completa: `releases/v3.56/firmware-jc3248w535c-v3.56-merged.bin`
-- Database rigging: `rev65`
+- Firmware OTA: `releases/v3.57/firmware-jc3248w535c-v3.57.bin`
+- Immagine USB completa: `releases/v3.57/firmware-jc3248w535c-v3.57-merged.bin`
+- Database rigging: `rev67`
 
-## Novita v3.56
+## Novita v3.57
 
-- ricalcolo completo della ricetta quando si modificano manualmente trefoli totali o gruppi;
-- aggiornamento di diametro finale, torsioni, avvolgimenti, lunghezza stimata e contrappeso;
-- database rigging, mapping dei motori e licenze invariati.
+- il comando **AGG. DB** aggiorna il database e gli sfondi vascello collegati alla revisione dati;
+- gli sfondi vengono scaricati solo se assenti o modificati e verificati con SHA-256;
+- il delta iniziale include Belem, Gjoa, HMS Terror e Hermione La Fayette;
+- firmware, mapping dei motori e licenze restano invariati rispetto a 3.56.
 
 ## URL usato dal display
 
@@ -29,5 +30,5 @@ https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/rel
 Il file applicativo per OTA e':
 
 ```text
-releases/v3.56/firmware-jc3248w535c-v3.56.bin
+releases/v3.57/firmware-jc3248w535c-v3.57.bin
 ```
