@@ -7,23 +7,20 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
 
 ## Ultima versione
 
-- Versione: `v3.58`
+- Versione: `v3.59`
 - Manifest: `releases/latest.json`
-- Firmware OTA: `releases/v3.58/firmware-jc3248w535c-v3.58.bin`
-- Immagine USB completa: `releases/v3.58/firmware-jc3248w535c-v3.58-merged.bin`
-- Database rigging: `rev68`
+- Firmware OTA: `releases/v3.59/firmware-jc3248w535c-v3.59.bin`
+- Immagine USB completa: `releases/v3.59/firmware-jc3248w535c-v3.59-merged.bin`
+- Database rigging: `rev69`
 
-## Novita v3.58
+## Novita v3.59
 
-- il comando **AGG. DATI** confronta database e immagini vascelli in modo
-  indipendente;
-- vengono scaricati solo i CSV o gli sfondi assenti, senza un ordine obbligato
-  tra aggiornamento firmware, database e immagini;
-- ogni JPEG viene verificato con SHA-256 e la revisione immagini viene salvata
-  sulla microSD soltanto dopo un trasferimento completo;
-- database `rev68` con 9.429 manovre con diametro Steel disponibile, incluse
-  cinque formule circonferenza-diametro prima mancanti;
-- mapping motori e licenze invariati rispetto a 3.57.
+- database `rev69` con tutte le 13.172 manovre estratte dalle tavole Steel;
+- 9.429 manovre con diametro storico disponibile e 3.743 righe senza dato
+  storico mantenute come `n.d.`, senza stime;
+- le righe `n.d.` restano consultabili nel display ma non applicabili alla
+  ricetta;
+- immagini vascelli `rev67` e mapping motori invariati.
 
 ## URL usato dal display
 
@@ -36,5 +33,5 @@ https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/rel
 Il file applicativo per OTA e':
 
 ```text
-releases/v3.58/firmware-jc3248w535c-v3.58.bin
+releases/v3.59/firmware-jc3248w535c-v3.59.bin
 ```
