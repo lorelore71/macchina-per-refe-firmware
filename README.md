@@ -11,7 +11,7 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
 - Manifest: `releases/latest.json`
 - Firmware OTA: `releases/v3.58/firmware-jc3248w535c-v3.58.bin`
 - Immagine USB completa: `releases/v3.58/firmware-jc3248w535c-v3.58-merged.bin`
-- Database rigging: `rev67`
+- Database rigging: `rev68`
 
 ## Novita v3.58
 
@@ -21,6 +21,8 @@ Il codice sorgente resta nel repository privato `macchina-per-refe`.
   tra aggiornamento firmware, database e immagini;
 - ogni JPEG viene verificato con SHA-256 e la revisione immagini viene salvata
   sulla microSD soltanto dopo un trasferimento completo;
+- database `rev68` con 9.429 manovre con diametro Steel disponibile, incluse
+  cinque formule circonferenza-diametro prima mancanti;
 - mapping motori e licenze invariati rispetto a 3.57.
 
 ## URL usato dal display
