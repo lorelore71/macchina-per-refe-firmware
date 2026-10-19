@@ -7,3 +7,7 @@ completa le scale disponibili dei kit privi di classe Steel. Le classi Steel,
 le manovre, i diametri storici, il mapping motori e le ricette non cambiano.
 Il catalogo arriva a 360 kit e i modelli senza classe Steel restano
 consultabili senza mostrare manovre assegnate per errore a un'altra classe.
+
+Il manifesto `ship_images_rev68.csv` distribuisce `210` sfondi vascello per
+la microSD. E' aggiornabile in modo indipendente: il display trasferisce solo
+i JPEG mancanti o con checksum differente.

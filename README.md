@@ -6,20 +6,19 @@ gli aggiornamenti firmware. Il codice sorgente resta nel repository privato
 
 ## Ultima versione
 
-- Versione: `v3.60`
+- Versione firmware: `v3.60`
 - Manifest: `releases/latest.json`
 - Firmware OTA: `releases/v3.60/firmware-jc3248w535c-v3.60.bin`
 - Immagine USB completa: `releases/v3.60/firmware-jc3248w535c-v3.60-merged.bin`
 - Database rigging: `rev70`
+- Immagini vascelli OTA: `rev68` (`210` JPEG)
 
-## Novità v3.60
+## Aggiornamento immagini rev68
 
-- scale commerciali uniformate al formato `1:N`;
-- completate le scale disponibili per i kit senza classe Steel;
-- catalogo esteso a 360 kit: i modelli senza classe Steel sono consultabili,
-  ma non ricevono manovre assegnate a un'altra classe;
-- database rigging `rev70`; immagini vascelli `rev67` invariate;
-- mapping motori e logica ricette invariati.
+- il pacchetto immagini è indipendente da firmware e database;
+- il display confronta gli SHA-256 e scarica solo gli sfondi mancanti o
+  modificati sulla microSD;
+- avviare la funzione **AGG. DATI** dalla pagina Aggiornamento del display.
 
 ## URL usato dal display
 

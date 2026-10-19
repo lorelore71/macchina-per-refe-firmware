@@ -17,6 +17,15 @@ aggiornato dalla microSD o via OTA senza cambiare il programma del display.
 - Le manovre `n.d.` restano ricercabili e consultabili, ma non possono essere
   trasferite al calcolatore della Smart Ropewalk.
 
+## Immagini vascelli rev68 - 2026-10-19
+
+- Pubblicato un manifesto di sincronizzazione completo con `210` sfondi JPEG
+  elaborati per il display.
+- La revisione immagini e' indipendente dal database rigging `rev70` e dal
+  firmware `3.60`.
+- Durante l'aggiornamento OTA il display confronta lo SHA-256 di ogni file e
+  scarica soltanto gli sfondi assenti o differenti sulla microSD.
+
 ## rev70 - 2026-10-19
 
 - Normalizzate tutte le scale commerciali espresse in pollici/piede nel

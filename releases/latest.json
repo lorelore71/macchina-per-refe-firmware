@@ -16,8 +16,8 @@
   "rigging_classes_sha256": "500f5b5b20aa49f65fca93d82f29dcf0ed357f0b7ad0f25ed11e61dd26c7ce0e",
   "diameter_normalization_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.60/diameter_normalization_rev70.csv",
   "diameter_normalization_sha256": "e3c5883b5d8af32c4722a9e976bcab49bca9f0daa49a32178482b60274e09ef8",
-  "ship_images_version": "rev67",
-  "ship_images_manifest_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.59/ship_images_rev67.csv",
-  "ship_images_manifest_sha256": "5439559e934a71821f2ea960ec2f9458d3b5080f038f407a407d08df5ca5d95f",
-  "notes": "Firmware v3.60: aggiornamento coordinato per distribuire il catalogo kit e le scale commerciali normalizzate. Database rigging rev70: scale in formato 1:N e scale disponibili completate per i kit senza classe Steel. Motori, cablaggio e calcolo ricette invariati."
+  "ship_images_version": "rev68",
+  "ship_images_manifest_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.60/ship_images_rev68.csv",
+  "ship_images_manifest_sha256": "8021e1ff06a433263ea2ce550be92dbb33f573fcf61605d7e4b3c118db25a15d",
+  "notes": "Firmware v3.60: catalogo kit e scale commerciali normalizzate. Database rigging rev70: scale in formato 1:N e scale disponibili completate. Immagini vascelli rev68: 210 sfondi OTA, scaricati solo se mancanti o diversi."
 }
