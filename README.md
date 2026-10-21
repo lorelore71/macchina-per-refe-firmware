@@ -6,12 +6,13 @@ gli aggiornamenti firmware. Il codice sorgente resta nel repository privato
 
 ## Ultima versione
 
-- Versione firmware: `v3.60`
+- Versione firmware: `v3.61`
 - Manifest: `releases/latest.json`
-- Firmware OTA: `releases/v3.60/firmware-jc3248w535c-v3.60.bin`
-- Immagine USB completa: `releases/v3.60/firmware-jc3248w535c-v3.60-merged.bin`
+- Firmware OTA: `releases/v3.61/firmware-jc3248w535c-v3.61.bin`
+- Immagine USB completa: `releases/v3.61/firmware-jc3248w535c-v3.61-merged.bin`
 - Database rigging: `rev70`
 - Immagini vascelli OTA: `rev68` (`210` JPEG)
+- Manuali PDF: IT/EN/ES aggiornati automaticamente in `/manuale/` a ogni OTA firmware.
 
 ## Aggiornamento immagini rev68
 
