@@ -6,11 +6,11 @@
   "merged": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.70/firmware-jc3248w535c-v3.70-merged.bin",
   "sha256": "d6af350b97e3bff0772455e7dfec9bf79852608c20e2924e14402b138477ba84",
   "manual_it_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.70/Smart-Ropewalk-Manual-Italian.pdf",
-  "manual_it_sha256": "eb0855501adeceb44313053e58bade9e819bfde461436c8370e3f93a71f32a05",
+  "manual_it_sha256": "4b9ae862342f81c7c417f8995b9b813da731af4a42dff17d1ffbeddf314611f0",
   "manual_en_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.70/Smart-Ropewalk-Manual-English.pdf",
-  "manual_en_sha256": "3f012abc8edffdd8e0d59916e125c64d8b567710a9779de2af6e8c311b9399c3",
+  "manual_en_sha256": "49f1c92f20e51595742293b8aec6f55a34be380f99048628fa9bf9ac6a68ac2c",
   "manual_es_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.70/Smart-Ropewalk-Manual-Spanish.pdf",
-  "manual_es_sha256": "7466d5abfad16846c928ec6f1ea0bb625c5b07f4fda604b3dcc95b3c1fe72af9",
+  "manual_es_sha256": "c31b7f7041d6059cb51b66f9f58955f6ac2bf8bc3338afd58c25275f69e07e27",
   "rigging_db_version": "rev71",
   "rigging_bundle_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/rigging-rev71/rigging_bundle_rev71.csv",
   "rigging_bundle_sha256": "fbfe86d08b6d3724cf7758e622e1f52140e6530b3746ffbb375ecb64cd1b9f09",
@@ -26,7 +26,7 @@
   "ship_images_manifest_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/rigging-rev71/ship_images_rev70.csv",
   "ship_images_manifest_sha256": "c29dbc16be78e02b14c40c997ac66517b6f9a9b3eccbefbe6971406689cb756b",
   "notes": "Firmware 3.70: nel calcolo refe il campo di input ora si chiama Diametro richiesto (Requested diameter / Diametro solicitado), distinto dal risultato Ottenibile. Nessuna modifica a calcoli, motori o ricette. Manuali IT/EN/ES e ZIP Web aggiornati. Database rev71 e immagini rev70 invariati.",
-  "manuals_date": "2026-10-31T22:27:59+00:00",
+  "manuals_date": "2026-10-31T23:27:23+00:00",
   "web_simulator_url": "https://raw.githubusercontent.com/lorelore71/macchina-per-refe-firmware/main/releases/v3.70/Smart-Ropewalk-Web-Display-v3.70.zip",
   "web_simulator_sha256": "10c9da08c3d489625932a0fd419a4763eb9a14a43b00611fb706eb5f2cdab5e5"
 }

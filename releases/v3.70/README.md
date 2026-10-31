@@ -9,6 +9,11 @@
 
 ## Update
 
+Manual refresh, 1 November 2026: the three PDF manuals now include native
+3.70 display screenshots and matching calculation callouts, including the
+repeated screen in the working procedure. Firmware binaries, Web Display
+ZIP and rigging data are unchanged. The OTA manual package date was advanced.
+
 Use the application `.bin` for OTA, not the merged image. The merged image is for full USB installation and can overwrite internal settings.
 
 The PDF manuals are downloaded automatically during firmware OTA when newer or missing. Saved recipes are preserved. No database update is required for this firmware change.
