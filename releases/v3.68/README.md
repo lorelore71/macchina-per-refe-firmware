@@ -12,6 +12,12 @@
 
 Motor settings, calculation formulas, activation, rigging database rev70 and ship images rev69 are unchanged. Existing saved recipes are preserved during the update.
 
+## Data update 2026-10-31
+
+Rigging database **rev71** and ship images **rev70** are now available separately, with the same firmware 3.68 binary. Use **UPDATE DATA**, not firmware installation. The package includes 333 kits and 13,421 rigging rows, a dedicated Amerigo Vespucci table (249 entries marked as modelling estimates), seven Vespucci kit/scale variants, and Redoutable by Artesania Latina at 1:84 with its background image.
+
+Existing Steel data are unchanged. Missing diameters remain n.d.; Vespucci directions assigned by analogy are documented in the CSV notes. See [database rev71 notes](../rigging-rev71/README.md) and the optional [data ZIP](../rigging-rev71/Smart-Ropewalk-Rigging-rev71.zip). No particular firmware/data update order is required.
+
 ## Web Display
 
 Connect the machine and your computer or tablet to the same local network, read the machine IP on its Wi-Fi page, then open `http://` followed by that IP in your browser. Reload the page after updating firmware.

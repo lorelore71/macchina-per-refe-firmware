@@ -17,6 +17,28 @@ aggiornato dalla microSD o via OTA senza cambiare il programma del display.
 - Le manovre `n.d.` restano ricercabili e consultabili, ma non possono essere
   trasferite al calcolatore della Smart Ropewalk.
 
+## rev71 - 2026-10-31
+
+- 333 kit commerciali e 13.421 manovre complessive: 9.642 con diametro e
+  3.779 con diametro `n.d.`. Le 13.172 righe Steel della rev70 sono invariate.
+- Aggiunta una tabella dedicata `Vespucci`, con 249 manovre (213 con diametro,
+  36 senza). Non e' una classe Steel e non contiene misure verificate della
+  nave: i valori sono stime/analogie modellistiche, indicate nei nomi nelle
+  tre lingue per renderle riconoscibili anche sul firmware 3.68.
+- Completati 83 versi mancanti per analogia con singole manovre `74 guns`:
+  68 RH e 15 LH; nelle note sono conservati riferimento e limiti del confronto.
+  Totale tabella Vespucci: 232 RH e 17 LH. Diametri non modificati.
+- Sette kit Vespucci: OcCre 1:100, Mantua/Panart 1:84, Mantua 1:100,
+  Hachette 1:100, Heller 1:150, Mamoli 1:150 e MiniMamoli 1:350.
+- Aggiunto Redoutable Artesania Latina 1:84, kit 22907, con classe `74 guns`
+  per analogia e nuovo sfondo 480x320. Immagini OTA rev70: 212 file nel
+  manifesto, con URL e hash precedenti conservati per tutti gli altri sfondi.
+- Compatibile con firmware 3.68 senza ricompilazione o nuovo flash. Aggiornare
+  mediante AGG. DATI; ordine indipendente rispetto all'aggiornamento firmware.
+- Sorgente rinominato `Database rigging rev71.xlsx`; eliminati i vecchi
+  database Excel su richiesta di Lorenzo. Nessuna modifica al normalizzatore
+  dei diametri, alle ricette o ai dati sperimentali.
+
 ## Immagini vascelli rev68 - 2026-10-19
 
 - Pubblicato un manifesto di sincronizzazione completo con `210` sfondi JPEG
