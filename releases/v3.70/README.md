@@ -9,6 +9,12 @@
 
 ## Update
 
+Database update, 1 November 2026: rigging rev72 adds 26 kit entries (13 kit
+variants and 13 new vessels, including Norske Love), for 359 kits in total.
+Existing rigging tables are unchanged. Ship images rev71 add thirteen
+backgrounds and correct British Diana, kept distinct from Spanish Diana.
+Use UPDATE DATA on the machine; the firmware binary is unchanged.
+
 Manual refresh, 1 November 2026: the three PDF manuals now include native
 3.70 display screenshots and matching calculation callouts, including the
 repeated screen in the working procedure. Firmware binaries, Web Display

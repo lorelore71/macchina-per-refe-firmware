@@ -10,9 +10,9 @@ gli aggiornamenti firmware. Il codice sorgente resta nel repository privato
 - Manifest: `releases/latest.json`
 - Firmware OTA: `releases/v3.70/firmware-jc3248w535c-v3.70.bin`
 - Immagine USB completa: `releases/v3.70/firmware-jc3248w535c-v3.70-merged.bin`
-- Database rigging: `rev71`, 333 kit e 13.421 manovre.
-- Immagini vascelli OTA: `rev70`, aggiunto Redoutable.
-- [Novita' database rev71](releases/rigging-rev71/README.md), [ZIP dati](releases/rigging-rev71/Smart-Ropewalk-Rigging-rev71.zip) e [changelog database](CHANGELOG_DATABASE_RIGGING.md).
+- Database rigging: `rev72`, 359 kit e 13.421 manovre.
+- Immagini vascelli OTA: `rev71`, 225 sfondi, Diana britannica e spagnola distinte.
+- [Novita' database rev72](releases/rigging-rev72/README.md), [ZIP dati](releases/rigging-rev72/Smart-Ropewalk-Rigging-rev72.zip) e [changelog database](CHANGELOG_DATABASE_RIGGING.md).
 - Manuali PDF: IT/EN/ES aggiornati automaticamente in `/manuale/` durante l'OTA firmware se piu' recenti o mancanti.
 - Simulatore Web: aprire nel browser `http://` seguito dall'IP della macchina, sulla stessa rete locale. Non serve scaricare file.
 - [ZIP opzionale per PC v3.70](releases/v3.70/Smart-Ropewalk-Web-Display-v3.70.zip), con istruzioni IT/EN/ES. Estrarre tutto e aprire `index.html`.
@@ -23,11 +23,11 @@ Verificato con Edge su Windows e WebKit con profili iPad. iPadOS 15 o successivo
 e' il requisito obiettivo: non e' stata effettuata una prova su iPad fisico.
 Chiudere il browser o perdere la connessione non ferma i motori.
 
-## Aggiornamento database rev71 e immagini rev70
+## Aggiornamento database rev72 e immagini rev71
 
-- usare **AGG. DATI** sulla macchina: il firmware 3.68 e' gia' compatibile e non va reinstallato;
-- aggiunte 249 manovre dedicate al Vespucci, marcate come stime modellistiche, e sette varianti di kit/scala;
-- aggiunto Redoutable Artesania Latina 1:84 e relativo sfondo;
+- usare **AGG. DATI** sulla macchina: il firmware 3.70 resta invariato e non va reinstallato;
+- aggiunti 13 kit per vascelli gia presenti e 13 nuovi vascelli, inclusa Norske Love;
+- preparati 13 sfondi nuovi e corretta la foto di HMS Diana, distinta dalla Diana spagnola;
 - le manovre Steel precedenti sono invariate; i diametri non disponibili restano n.d.;
 
 - il pacchetto immagini e' indipendente da firmware e database;

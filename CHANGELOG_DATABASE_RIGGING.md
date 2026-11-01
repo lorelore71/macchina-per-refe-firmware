@@ -1,5 +1,26 @@
 # Changelog database rigging
 
+## rev72 - Catalogo kit e sfondi - 2026-11-01
+
+- Pubblicati database rev72 e immagini rev71 per firmware 3.70 invariato.
+  Aggiornamento dal comando AGG. DATI; nessuna reinstallazione firmware.
+
+- Dopo la scelta di Lorenzo aggiunti anche 13 vascelli nuovi, inclusa Norske
+  Love: totale 359 kit. Cinque modelli esclusi lasciati fuori dal catalogo.
+- Preparati 13 sfondi nuovi e corretta l'associazione di HMS Diana:
+  originali britannico e spagnolo distinti, nomi SD senza collisioni.
+- Manifesto immagini locale rev71: 225 sfondi, 14 file nuovi/modificati.
+- CSV distribuiti via OTA; tavole manovre identiche alla rev71. Classi
+  Steel non verificate mantenute n.d.; Le Superbe assegnato a 74 guns.
+
+- Prima fase: aggiunti 13 kit di vascelli gia presenti, da 333 a 346 kit.
+- Varianti Mantua/Sergal, OcCre, Artesania Latina, Amati, CAF Model e
+  Model Shipways; scale e fonti commerciali registrate nel catalogo.
+- Dati storici e classi ereditati dalle voci esistenti, senza nuove stime.
+  Nessuna modifica alle manovre, formule, immagini o ai kit gia registrati.
+- L'Excel separato conserva le decisioni di Lorenzo sui 18 candidati:
+  13 inseriti e cinque esclusi. Online rev72, firmware 3.70 invariato.
+
 Questo documento registra le revisioni distribuibili del database storico
 Steel. E' distinto dal changelog del firmware: il database puo' essere
 aggiornato dalla microSD o via OTA senza cambiare il programma del display.
